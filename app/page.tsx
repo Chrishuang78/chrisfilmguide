@@ -117,7 +117,7 @@ export default function Home() {
       <header className="mast">
         <a className="brand" href="#top"><span className="brand-reel">●</span> NYC / ARTHOUSE <span className="brand-film">35MM</span></a>
         <nav aria-label="Primary navigation">
-          <a href="#picks">This week</a><a href="#special">Special Focus</a><a href="#asian">Asian</a><a href="#events">Events</a><a href="#soon">Coming Soon</a>
+          <a href="#picks">This week</a><a href="#special">Special Focus</a><a href="#asian">Asian</a><a href="#soon">Coming Soon</a><a href="#events">Events</a>
         </nav>
       </header>
 
