@@ -5,6 +5,7 @@ const links = {
   solaris: "https://metrograph.com/new-museum-new-humans/",
   mambo: "https://metrograph.com/film/?vista_film_id=9999001804",
   mubi: "https://mubi.com/en/us/films/teenage-sex-and-death-at-camp-miasma",
+  bamSciFi: "https://www.bam.org/film/2026/arthouse-scifi",
   nyff: "https://www.filmlinc.org/nyff/nyff64-lineup/",
 };
 
@@ -20,6 +21,8 @@ const images = {
   tampopo: "https://m.media-amazon.com/images/M/MV5BYzMyYTE1YjMtMjExMy00YjU3LTg1MGMtODNiNWQwNjRiNThjXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
   cat: "https://metadata-static.plex.tv/4/gracenote/4a0f192c02ef1386e8fbad51f841ef25.jpg",
   linda: "https://images.plex.tv/photo?scale=2&size=large-480&url=https%3A%2F%2Fmetadata-static.plex.tv%2F3%2Fgracenote%2F39807ffdaeb3f896b612504e63e843c2.jpg",
+  goodMorning: "https://image.tmdb.org/t/p/original/aX3neIX5o18tM2iTyZhk2igvR3Q.jpg",
+  irreversible: "https://i.ebayimg.com/images/g/L5sAAOSwcSFn5nlu/s-l1200.jpg",
   amadeus: "https://assets.stardust.it/movie/poster/f22ca83f5e06fd1c41700ae90a4093b31555365771-1000w.jpg",
   untouchables: "https://media.senscritique.com/media/000007127609/source_big/Les_Incorruptibles.jpg",
   miasma: "https://m.media-amazon.com/images/M/MV5BZTc4NmU5MjgtZTJmMi00YmFjLWI5NzktN2JjMzZlMjUzZDFkXkEyXkFqcGc%40._V1_.jpg",
@@ -31,6 +34,7 @@ const images = {
   warriors: "https://originalvintagemovieposters.com/wp-content/uploads/2010/10/Warriors-2.jpg",
   rebecca: "https://i.etsystatic.com/23647903/r/il/db40ba/2492989923/il_fullxfull.2492989923_plik.jpg",
   conversation: "https://m.media-amazon.com/images/S/pv-target-images/b7fa1cab39c55e7ee5e49abc2689711b969e80a9c95ac44f5083934fb9582157.png",
+  manhunter: "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/07/michaelmannsmanhunter.jpg",
   rites: "https://screenings.pt/wp-content/uploads/2025/06/POSTER-TRINDADE-2-819x1024.jpg",
   blackGod: "https://image.tmdb.org/t/p/original/aXjyGU98qhdWHgWMOC2gkKdNbPb.jpg",
   salvus: "https://adioscuba.es/wp-content/uploads/2024/02/Adios-Cuba-portada-1.jpg",
@@ -40,6 +44,8 @@ const images = {
   dayReturns: "https://www.filmlinc.org/cdn-cgi/image/width%3D1600%2Cformat%3Dauto%2Cquality%3D85/https%3A//wp.filmlinc.org/wp-content/uploads/2026/07/The-Day-She-Returns_NYFF64_01.jpeg",
   southTehran: "https://www.filmlinc.org/cdn-cgi/image/width%3D1600%2Cformat%3Dauto%2Cquality%3D85/https%3A//wp.filmlinc.org/wp-content/uploads/2026/08/South-of-Tehran_NYFF64_1-scaled.png",
   temples: "https://www.filmlinc.org/cdn-cgi/image/width%3D1600%2Cformat%3Dauto%2Cquality%3D85/https%3A//wp.filmlinc.org/wp-content/uploads/2026/07/9-Temples-to-Heaven_NYFF64_01.png",
+  stalker: "https://playhousecinema.ca/files/princesscinemas/movie-posters/stalker.jpeg",
+  memoria: "https://strapi.api-tvcine.com/uploads/3a0786a21aa04b72b22eae66cbb7f0ef.jpg",
 };
 
 const cardBg = (image: string) => ({
@@ -70,7 +76,9 @@ const picks = [
   { rank: "03", title: "Millennium Mambo", note: "Hou Hsiao-hsien · 2001 · Taiwan", when: "Sat Aug 8 · 10:45 PM", venue: "Metrograph", tags: ["SPECIAL FOCUS"], href: links.mambo, image:images.mambo, reason: "Hou's neon-lit turn-of-the-century Taipei reverie. One screening this week, and a near-direct conflict with In the Mood for Love at 10:50 PM." },
   { rank: "04", title: "The Traveler", note: "Abbas Kiarostami · 1974 · Iran", when: "Thu Aug 13 · 6:10 PM", venue: "Metrograph", tags: ["SPECIAL FOCUS", "WEST ASIA"], href: links.traveler, image:images.traveler, reason: "Kiarostami's first feature: a funny, unsentimental childhood quest movie whose football obsession gives his later moral puzzles an early shape." },
   { rank: "05", title: "Solaris", note: "Andrei Tarkovsky · 1972 · USSR", when: "Wed Aug 12 · 3:15 PM", venue: "Metrograph", tags: ["SPECIAL FOCUS", "DCP"], href: links.solaris, image:images.solaris, reason: "Tarkovsky's metaphysical science-fiction landmark, programmed with the New Museum's New Humans exhibition. Long, hypnotic, and worth surrendering an afternoon to." },
-  { rank: "06", title: "2001: A Space Odyssey", note: "Stanley Kubrick · 1968 · US/UK", when: "Sat Aug 8 · 4:00 PM", venue: "Museum of the Moving Image", tags: ["70MM", "CLASSIC"], href: "https://movingimage.org/series/see-it-big-70mm-2026/", image:images.space2001, reason: "If you haven't seen 2001 in 70mm at the Redstone Theater, this is the canonical big-screen appointment." },
+  { rank: "06", title: "Good Morning", note: "Yasujirō Ozu · 1959 · Japan", when: "Sat Aug 8 · 11:45 AM", venue: "Metrograph", tags: ["ASIAN CINEMA", "35MM", "OZU"], href: "https://metrograph.com/film/?vista_film_id=9999004946", image:images.goodMorning, reason: "Ozu's deceptively light suburban comedy is both canonical and wonderfully theatrical in color; Metrograph is showing it on 35mm in a single Saturday-morning slot." },
+  { rank: "07", title: "Irréversible", note: "Gaspar Noé · 2002 · France", when: "Fri Aug 14 · 11:00 PM", venue: "Metrograph", tags: ["35MM", "CULT CANON"], href: "https://metrograph.com/film/?vista_film_id=9999004959", image:images.irreversible, reason: "Noé's reverse-chronology assault on narrative time remains enormously influential and deeply confrontational. A late-Friday 35mm screening is exactly the right repertory context for it." },
+  { rank: "08", title: "2001: A Space Odyssey", note: "Stanley Kubrick · 1968 · US/UK", when: "Sat Aug 8 · 4:00 PM", venue: "Museum of the Moving Image", tags: ["70MM", "CLASSIC"], href: "https://movingimage.org/series/see-it-big-70mm-2026/", image:images.space2001, reason: "If you haven't seen 2001 in 70mm at the Redstone Theater, this is the canonical big-screen appointment." },
 ];
 
 const focus:Film[]=[
@@ -81,6 +89,7 @@ const focus:Film[]=[
 ];
 
 const asian:Film[]=[
+  {title:"Good Morning / お早よう",year:"1959",region:"Japan",director:"Yasujirō Ozu",type:"Comedy · family satire",venue:"Metrograph",when:"Sat Aug 8 · 11:45 AM",format:"35mm",tags:["35MM","ASIAN CANON"],text:"Two suburban brothers take a vow of silence after their parents refuse to buy a television, giving Ozu a playful route into postwar consumer life and the comedy of everyday communication. Its bright Agfacolor palette and immaculate domestic geometry make this 35mm morning screening far more than a minor Ozu detour.",href:"https://metrograph.com/film/?vista_film_id=9999004946",image:images.goodMorning},
   {title:"Center Stage / 阮玲玉",year:"1991",region:"Hong Kong",director:"Stanley Kwan",type:"Biographical drama · meta-cinema",venue:"Film Forum",when:"Sat Aug 8 · 12:15, 3:20, 6:30 PM",event:"Post-film conversation with Stanley Kwan after 6:30",tags:["DIRECTOR IN PERSON","ASIAN CINEMA"],text:"Maggie Cheung plays silent-era icon Ruan Lingyu in Kwan’s great hybrid of biography, archive, reenactment and self-reflexive filmmaking. The 6:30 screening is the one to prioritize: Kwan’s in-person conversation makes it a genuinely special NYC event.",href:"https://filmforum.org/film/center-stage",image:images.centerStage},
   {title:"In the Mood for Love / 花樣年華",year:"2000",region:"Hong Kong",director:"Wong Kar-wai",type:"Romance · drama",venue:"Metrograph",when:"Sat Aug 8 · 10:50 PM",format:"35mm",tags:["35MM","CLASSIC"],text:"Wong’s masterpiece of restraint turns missed timing and impossible desire into pure rhythm, color and gesture. Christopher Doyle’s images deserve film projection—but note the brutal five-minute overlap with Hou’s Millennium Mambo; this one returns Aug 21.",href:"https://metrograph.com/film/?vista_film_id=9999000517",image:images.inTheMood},
   {title:"The Chaser / 추격자",year:"2008",region:"South Korea",director:"Na Hong-jin",type:"Crime thriller",venue:"Metrograph",when:"Sat Aug 8 · 3:50 PM; Sun Aug 9 · 9:15 PM",tags:["ASIAN CINEMA"],text:"Na Hong-jin’s ferocious debut turns a pursuit narrative into something grimier and more morally exhausted than a conventional thriller. A very good choice if you want kinetic Korean genre cinema rather than contemplative arthouse pacing.",href:links.metrograph,image:images.chaser},
@@ -90,13 +99,14 @@ const asian:Film[]=[
 ];
 
 const classics:Film[]=[
+  {title:"Irréversible",year:"2002",region:"France",director:"Gaspar Noé",type:"Experimental thriller · transgressive cinema",venue:"Metrograph",when:"Fri Aug 14 · 11:00 PM",format:"35mm",tags:["35MM","CULT CANON"],text:"Fourteen long takes move backward from horrific violence toward an ordinary afternoon, turning chronology itself into the film's central wound. Its influence on later extreme, immersive, and formally destabilized filmmaking is hard to overstate; the 35mm midnight-adjacent slot makes this a serious repertory event, not merely a cult curiosity.",href:"https://metrograph.com/film/?vista_film_id=9999004959",image:images.irreversible},
   {title:"2001: A Space Odyssey",year:"1968",region:"U.K. / U.S.",director:"Stanley Kubrick",type:"Science fiction",venue:"Museum of the Moving Image",when:"Sat Aug 8 · 4:00 PM",format:"70mm",tags:["70MM","CANON"],text:"Kubrick’s cosmic landmark is precisely the kind of film for which 70mm projection matters: scale, darkness, color and duration become physical. MoMI’s Redstone Theater is one of NYC’s best places to encounter it.",href:"https://movingimage.org/series/see-it-big-70mm-2026/",image:images.space2001},
   {title:"Amadeus",year:"1984",region:"U.S. / France",director:"Miloš Forman",type:"Period drama · music",venue:"Museum of the Moving Image",when:"Sun Aug 9 · 3:00 PM",format:"70mm",event:"Producer Paul Zaentz in person",tags:["70MM","GUEST"],text:"Forman’s operatic study of genius and envy gets a recently struck 70mm presentation, with producer Paul Zaentz attending this screening. The combination of large-format print and firsthand production context makes this much rarer than an ordinary revival.",href:"https://movingimage.org/event/amadeus-70mm/2026-08-09/",image:images.amadeus},
   {title:"The Untouchables",year:"1987",region:"U.S.",director:"Brian De Palma",type:"Gangster thriller",venue:"Museum of the Moving Image",when:"Fri Aug 14 · 6:30 PM",format:"70mm",tags:["70MM","DE PALMA"],text:"De Palma, David Mamet, Morricone and a monumental staircase sequence on a 70mm print. It opens the weekend as part of both MoMI’s See It Big: 70mm and De Palma: Summer of Suspense series.",href:"https://movingimage.org/event/the-untouchables-3/2026-08-14/",image:images.untouchables},
 ];
 
 const noteworthy:Film[]=[
-  {title:"Rites of Cinema: Reis & Cordeiro",year:"1963–1989",region:"Portugal",director:"António Reis & Margarida Cordeiro",type:"Retrospective · docufiction",venue:"BAM Rose Cinemas",when:"Aug 7–13",format:"New restorations by Cinemateca Portuguesa",tags:["NEW RESTORATIONS","RETROSPECTIVE"],text:"BAM’s compact retrospective is the week’s deepest repertory rabbit hole: rarely accessible films that blur ethnography, landscape, myth and fiction. Trás-os-Montes, Ana, Rosa de Areia and related works make this a true discovery series rather than a greatest-hits revival.",href:"https://www.bam.org/film",image:images.rites},
+  {title:"Rites of Cinema: Reis & Cordeiro",year:"1963–1989",region:"Portugal",director:"António Reis & Margarida Cordeiro",type:"Retrospective · docufiction",venue:"BAM Rose Cinemas",when:"Aug 7–13",format:"New restorations by Cinemateca Portuguesa",tags:["NEW RESTORATIONS","RETROSPECTIVE"],text:"BAM’s compact retrospective is the week’s deepest repertory rabbit hole: rarely accessible films that blur ethnography, landscape, myth and fiction. Trás-os-Montes, Ana, Rosa de Areia and related works make this a true discovery series rather than a greatest-hits revival.",href:"https://www.bam.org/film/2026/rites-of-cinema",image:images.rites},
   {title:"Black God, White Devil / Deus e o Diabo na Terra do Sol",year:"1964",region:"Brazil",director:"Glauber Rocha",type:"Cinema Novo · western",venue:"Anthology Film Archives",when:"Sat Aug 8 · 9:00 PM; Fri Aug 14 · 6:30 PM",tags:["ESSENTIAL CINEMA","WORLD CINEMA"],text:"Rocha’s revolutionary blend of folk myth, political fury and western iconography screens inside Anthology’s wide-ranging Westerns series. If you want something genuinely different from the polished repertory circuit, this is the one.",href:"https://www.anthologyfilmarchives.org/film_screenings/series/61653",image:images.blackGod},
   {title:"Cuban Film Festival: Salvus",year:"2026 program",region:"Cuba / diaspora",director:"Nine filmmakers",type:"Festival · contemporary Cuban cinema",venue:"Anthology Film Archives",when:"Thu Aug 13–Sun Aug 16",tags:["FESTIVAL","NYC FILM CULTURE"],text:"Anthology and the Cuban Cultural Center of New York gather contemporary Cuban filmmakers working across Havana, Berlin, Paris, Spain and the U.S. The program begins Aug 13, with films touching migration, art, adolescence and political violence.",href:"https://www.anthologyfilmarchives.org/film_screenings/series/61673",image:images.salvus},
 ];
@@ -136,13 +146,13 @@ export default function Home() {
         <div className="mubi-copy">
           <p><b>Jane Schoenbrun · 2026 · USA · 112 min</b></p>
           <p>MUBI marks it “in theaters this week · Free with MUBI GO.” Schoenbrun’s Cannes-premiered meta-slasher follows a young director rebooting a fictional horror franchise. For your subscription, this is an easy use of the weekly ticket: a buzzy new auteur release that is emphatically designed for a crowd.</p>
-          <p><b>NYC:</b> Angelika New York is running it daily this week; confirm the exact MUBI GO-eligible theater/showtime in the app before redemption.</p>
+          <p><b>NYC:</b> MUBI’s public page confirms this week’s GO eligibility and its theatrical finder shows current New York screenings, but it does not expose which NYC theater/showtime is redeemable with GO. Confirm the eligible venue and time in the MUBI GO app before redemption.</p>
           <a className="arrow" href={links.mubi} target="_blank" rel="noreferrer">MUBI listing ↗</a>
         </div>
       </section>
 
       <section className="section" id="picks">
-        <div className="section-head"><p className="kicker">01 / 🎬 THIS WEEK</p><h2>Top picks</h2><p>Six screenings I would build the week around.</p></div>
+        <div className="section-head"><p className="kicker">01 / 🎬 THIS WEEK</p><h2>Top picks</h2><p>Eight screenings I would build the week around—expanded where the week genuinely earns it.</p></div>
         <div className="pick-list">
           {picks.map((p) => <article className="pick image-pick" style={cardBg(p.image)} key={p.rank}>
             <div className="rank">{p.rank}</div>
@@ -165,16 +175,16 @@ export default function Home() {
       </section>
 
       <section className="section blue" id="classics">
-        <div className="section-head"><p className="kicker">04 / 🎞 ALL-TIME CLASSICS</p><h2>See it big</h2><p>MoMI’s 70mm series supplies the week’s strongest case for leaving the house purely for format.</p></div>
+        <div className="section-head"><p className="kicker">04 / 🎞 ALL-TIME CLASSICS</p><h2>Canon, scale & provocation</h2><p>Large-format spectacle meets transgressive cult canon: these are films whose form gains something essential in a theater.</p></div>
         <div className="card-grid three-grid">{classics.map(f=><FilmCard key={f.title} film={f}/>)}</div>
       </section>
 
       <section className="section" id="new">
         <div className="section-head"><p className="kicker">05 / 🆕 NEW HITS</p><h2>New & in demand</h2><p>Recent releases and current runs with enough heat to plan around.</p></div>
         <div className="mini-grid">
-          <article className="image-card compact-image" style={cardBg(images.miasma)}><Tag>MUBI RELEASE</Tag><h3>Teenage Sex and Death at Camp Miasma</h3><p><b>Jane Schoenbrun · Angelika New York · daily Aug 8–13</b></p><p>The week’s MUBI GO pick and the most obvious new-release match for you. Saturday’s 7:00 PM show is scheduled with Schoenbrun Q&A; other daily times are available.</p><a href={links.mubi}>MUBI ↗</a></article>
-          <article className="image-card compact-image" style={cardBg(images.samurai)}><Tag>NEW RELEASE</Tag><h3>The Samurai and the Prisoner</h3><p><b>Kiyoshi Kurosawa · Japan · 2026 · BAM</b></p><p>Kurosawa’s lush historical drama follows a samurai seeking counsel from an imprisoned strategist. A striking chance to see the prolific Japanese auteur working far outside his familiar horror/thriller register.</p><a href="https://www.bam.org/film">BAM ↗</a></article>
-          <article className="image-card compact-image" style={cardBg(images.lateFame)}><Tag>NEW RELEASE</Tag><h3>Late Fame</h3><p><b>Kent Jones · Film Forum · daily</b></p><p>Willem Dafoe plays a forgotten poet unexpectedly rediscovered by younger admirers. Jones’s fiction debut is one of the notable first-run downtown titles this week.</p><a href="https://filmforum.org/now_playing">Film Forum ↗</a></article>
+          <article className="image-card compact-image" style={cardBg(images.miasma)}><Tag>MUBI RELEASE</Tag><h3>Teenage Sex and Death at Camp Miasma</h3><p><b>Jane Schoenbrun · 2026 · now playing in NYC</b></p><p>The week’s confirmed MUBI GO pick and the most obvious new-release match for your taste for recent cult cinema. MUBI’s public page confirms GO eligibility; use the app to select the redeemable NYC venue/showtime.</p><a href={links.mubi}>MUBI ↗</a></article>
+          <article className="image-card compact-image" style={cardBg(images.samurai)}><Tag>NEW RELEASE</Tag><h3>The Samurai and the Prisoner</h3><p><b>Kiyoshi Kurosawa · Japan · 2026 · BAM + IFC</b></p><p>Kurosawa’s lush historical drama follows a samurai seeking counsel from an imprisoned strategist. A striking chance to see the prolific Japanese auteur working far outside his familiar horror/thriller register.</p><a href="https://www.bam.org/film/2026/the-samurai-and-the-prisoner" target="_blank" rel="noreferrer">BAM ↗</a></article>
+          <article className="image-card compact-image" style={cardBg(images.lateFame)}><Tag>NEW RELEASE</Tag><h3>Late Fame</h3><p><b>Kent Jones · Film Forum · Aug 8–13</b></p><p>Willem Dafoe plays a forgotten poet unexpectedly rediscovered by younger admirers. Jones’s fiction debut is one of the notable first-run downtown titles this week.</p><a href="https://filmforum.org/film/late-fame" target="_blank" rel="noreferrer">Film Forum ↗</a></article>
         </div>
       </section>
 
@@ -187,6 +197,7 @@ export default function Home() {
           <div className="worth-image" style={cardBg(images.warriors)}><b>The Warriors</b><span>Walter Hill · Metrograph · Aug 8 1:50 PM / Aug 14 2:00 PM</span><a className="official-link" href="https://metrograph.com/film/?vista_film_id=9999002970" target="_blank" rel="noreferrer">Official listing ↗</a></div>
           <div className="worth-image" style={cardBg(images.rebecca)}><b>Rebecca</b><span>Alfred Hitchcock · Metrograph · Aug 9 4:10 PM</span><a className="official-link" href="https://metrograph.com/film/?vista_film_id=9999000678" target="_blank" rel="noreferrer">Official listing ↗</a></div>
           <div className="worth-image" style={cardBg(images.conversation)}><b>Conversation Piece</b><span>Luchino Visconti · Metrograph · Aug 9 6:45 PM</span><a className="official-link" href="https://metrograph.com/film/?vista_film_id=9999004912" target="_blank" rel="noreferrer">Official listing ↗</a></div>
+          <div className="worth-image" style={cardBg(images.manhunter)}><b>Manhunter: The Final Cut</b><span>Michael Mann · IFC Center · daily Aug 8–13 · new 40th-anniversary 4K restoration</span><a className="official-link" href="https://www.ifccenter.com/films/michael-manns-manhunter-the-final-cut/" target="_blank" rel="noreferrer">Official listing ↗</a></div>
         </div>
       </section>
 
@@ -209,14 +220,15 @@ export default function Home() {
       </section>
 
       <section className="section soon" id="soon">
-        <div className="section-head"><p className="kicker">09 / 🔭 COMING SOON — SPECIAL FOCUS</p><h2>NYFF just landed</h2><p>Major news this week: NYFF64 announced a Main Slate unusually rich in your favorite filmmakers. Exact showtimes arrive in late August; general single tickets go on sale Sep 15 at noon ET.</p></div>
+        <div className="section-head"><p className="kicker">09 / 🔭 COMING SOON — SPECIAL FOCUS</p><h2>BAM sci-fi first; NYFF selectively</h2><p>The immediate priority is BAM’s Arthouse Sci-Fi series, which contains three direct Special Focus hits. NYFF64 is kept deliberately selective here rather than turning this section into a festival dump.</p></div>
         <div className="soon-grid">
+          <article className="image-card soon-image" style={cardBg(images.solaris)}><span>AUG 21 → 25 · BAM ROSE CINEMAS</span><h3>Solaris</h3><p><b>Andrei Tarkovsky · 1972 · 167 min · DCP</b></p><p>The first of BAM’s two Tarkovsky anchors in Arthouse Sci-Fi. If the Aug 12 Metrograph screening is inconvenient, this multi-date run is the stronger backup plan.</p><a className="official-link" href="https://www.bam.org/film/2026/arthouse-scifi-solaris" target="_blank" rel="noreferrer">Official listing ↗</a></article>
+          <article className="image-card soon-image" style={cardBg(images.stalker)}><span>AUG 22 → 26 · BAM ROSE CINEMAS</span><h3>Stalker</h3><p><b>Andrei Tarkovsky · 1979 · 162 min · DCP</b></p><p>A direct Special Focus must-track: Tarkovsky’s Zone is one of cinema’s great immersive spaces, and BAM gives it a five-day window rather than a one-off.</p><a className="official-link" href="https://www.bam.org/film/2026/arthouse-scifi-stalker" target="_blank" rel="noreferrer">Official listing ↗</a></article>
+          <article className="image-card soon-image" style={cardBg(images.memoria)}><span>AUG 22 → 27 · BAM ROSE CINEMAS</span><h3>Memoria</h3><p><b>Apichatpong Weerasethakul · 2021 · 136 min · 35mm</b></p><p>Apichatpong’s film is unusually dependent on theatrical sound and patient communal attention. BAM lists this return on 35mm, making it one of the month’s strongest Special Focus appointments.</p><a className="official-link" href="https://www.bam.org/film/2026/arthouse-scifi-memoria" target="_blank" rel="noreferrer">Official listing ↗</a></article>
           <article className="image-card soon-image" style={cardBg(images.allSudden)}><span>SEP 25 → OCT 12 · NYFF64</span><h3>All of a Sudden</h3><p><b>Ryūsuke Hamaguchi · 2026 · 196 min · U.S. Premiere</b></p><p>Hamaguchi’s new French-language feature, about a nursing-home director and a radical care program, comes to NYFF after Cannes.</p><a className="official-link" href="https://www.filmlinc.org/nyff2026/films/all-of-a-sudden/" target="_blank" rel="noreferrer">Official listing ↗</a></article>
           <article className="image-card soon-image" style={cardBg(images.possibleLove)}><span>SEP 25 → OCT 12 · NYFF64</span><h3>Possible Love</h3><p><b>Lee Chang-dong · 2026 · 164 min · U.S. Premiere</b></p><p>Two married couples collide across class lines in Lee’s new drama about layoffs, documentary-making and economic precarity.</p><a className="official-link" href="https://www.filmlinc.org/nyff2026/films/possible-love/" target="_blank" rel="noreferrer">Official listing ↗</a></article>
           <article className="image-card soon-image" style={cardBg(images.nowhere)}><span>SEP 25 → OCT 12 · NYFF64</span><h3>Nowhere To Lay My Eyes</h3><p><b>Hong Sangsoo · 2026 · 72 min · North American Premiere</b></p><p>Kim Min-hee plays an experimental filmmaker visiting her semi-estranged mother—a compact Hong study of family, aging and art.</p><a className="official-link" href="https://www.filmlinc.org/nyff2026/films/nowhere-to-lay-my-eyes/" target="_blank" rel="noreferrer">Official listing ↗</a></article>
-          <article className="image-card soon-image" style={cardBg(images.dayReturns)}><span>SEP 25 → OCT 12 · NYFF64</span><h3>The Day She Returns</h3><p><b>Hong Sangsoo · 2026 · 84 min · North American Premiere</b></p><p>A second new Hong in the same Main Slate, built around three conversations with a middle-aged actress returning to publicity.</p><a className="official-link" href="https://www.filmlinc.org/nyff2026/films/the-day-she-returns/" target="_blank" rel="noreferrer">Official listing ↗</a></article>
           <article className="image-card soon-image" style={cardBg(images.southTehran)}><span>SEP 25 → OCT 12 · NYFF64</span><h3>South of Tehran</h3><p><b>Kleber Mendonça Filho with Jafar Panahi · 2026 · 8 min · World Premiere</b></p><p>Panahi recalls the cinephilia of his youth in Farsi in the inaugural NYFF Encounters short. Exact screening details remain TBA.</p><a className="official-link" href="https://www.filmlinc.org/nyff2026/films/south-of-tehran/" target="_blank" rel="noreferrer">Official listing ↗</a></article>
-          <article className="image-card soon-image" style={cardBg(images.temples)}><span>SEP 25 → OCT 12 · NYFF64</span><h3>9 Temples to Heaven</h3><p><b>Sompot Chidgasornpongse · 2026 · 140 min</b></p><p>Not a Special Focus director, but very close to your taste: Apichatpong Weerasethakul’s longtime assistant director follows a Thai family’s one-day pilgrimage.</p><a className="official-link" href="https://www.filmlinc.org/nyff2026/films/9-temples-to-heaven/" target="_blank" rel="noreferrer">Official listing ↗</a></article>
         </div><a className="big-link" href={links.nyff} target="_blank" rel="noreferrer">Explore official NYFF64 lineup ↗</a>
       </section>
 
@@ -229,6 +241,7 @@ export default function Home() {
           <div><time>AUG 09 · 3:00 PM</time><h3><a href="https://movingimage.org/event/amadeus-70mm/2026-08-09/" target="_blank" rel="noreferrer">Amadeus in 70mm — Paul Zaentz in person</a></h3><p>Museum of the Moving Image · producer appearance with a recently struck large-format print.</p></div>
           <div><time>AUG 13 · 7:00 PM</time><h3><a href="https://www.ifccenter.com/films/union-county/" target="_blank" rel="noreferrer">Union County — sneak preview + Q&A</a></h3><p>IFC Center · Adam Meeks with Will Poulter, Noah Centineo and Annette Deao. <b>Sold out at last check.</b></p></div>
           <div><time>AUG 13 · 9:00 PM</time><h3><a href="https://www.filmlinc.org/films/cam/" target="_blank" rel="noreferrer">Cam — new 35mm print + Q&A</a></h3><p>Film at Lincoln Center · world premiere of a newly struck 35mm print; Daniel Goldhaber and Madeline Brewer in person.</p></div>
+          <div><time>AUG 21–27</time><h3><a href={links.bamSciFi} target="_blank" rel="noreferrer">BAM Arthouse Sci-Fi — Tarkovsky, Apichatpong & cult futures</a></h3><p>BAM Rose Cinemas · Solaris Aug 21–25, Stalker Aug 22–26, Memoria Aug 22–27, plus Tetsuo: The Iron Man, La Jetée + The Last Angel of History, On the Silver Globe and more. This is the month’s most concentrated overlap with your Special Focus and cult-cinema tastes.</p><b>HIGH PRIORITY</b></div>
           <div><time>AUG 21 · 7:00 PM</time><h3><a href="https://movingimage.org/event/a-bright-future/" target="_blank" rel="noreferrer">A Bright Future — Lucía Garibaldi Q&A</a></h3><p>Museum of the Moving Image · screening of Garibaldi’s new sci-fi drama followed by director Q&A.</p></div>
           <div><time>AUG 28–29</time><h3><a href="https://www.anthologyfilmarchives.org/film_screenings/series/61608" target="_blank" rel="noreferrer">Tony Ganz + Rhody Streeter — filmmakers in person</a></h3><p>Anthology Film Archives · New Discoveries program; filmmakers scheduled in person both days.</p></div>
           <div><time>AUG 31 · 6:00 PM</time><h3><a href="https://www.filmlinc.org/films/the-kill-off-my-new-gun/" target="_blank" rel="noreferrer">Missing Movies panel + 35mm double feature</a></h3><p>Film at Lincoln Center · The Kill-Off + My New Gun with panel discussion on film preservation and availability.</p></div>
