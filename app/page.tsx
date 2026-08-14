@@ -28,31 +28,32 @@ const images = {
   solaris: "https://cdn.posteritati.com/posters/000/000/067/775/solaris-md-web.jpg",
   mysterious: "https://images.blu-ray.com/news/upload/20760_tn.jpg",
   henry: "https://imusic.b-cdn.net/images/item/original/663/5027035023663.jpg",
-  sholay: "https://m.media-amazon.com/images/M/MV5BOWQ0YTUzYjItYjI0MC00OTZmLWE1MWQtY2EzYTg3YzYyYjY4XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
-  highLow: "https://cdn.posteritati.com/posters/000/000/059/993/high-and-low-md-web.jpg",
-  lily: "https://m.media-amazon.com/images/M/MV5BYzM4N2NhODAtNTRiNS00MzBlLWE0NDgtNjQ2MTFjZWIyYTZlXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
-  ppRider: "https://m.media-amazon.com/images/M/MV5BZmUzYTlhMDQtYzE2Zi00OTNmLTg2NzgtZWMzODNiZTZhYTk4XkEyXkFqcGc%40._V1_.jpg",
-  summerWars: "https://m.media-amazon.com/images/M/MV5BNmM0Y2I5ZDktZmU3OS00ZGVjLTllZjItZjYzYTY5NWVjMjFiXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+  sholay: "https://www.allartsindia.com/wp-content/uploads/2023/01/1975-Bollywood-Poster-SHOLAY.-Amitabh-Bachchan-Dharmendra-Hema-30in-x-40in-e1674643387611.jpg",
+  highLow: "https://images.fandango.com/ImageRenderer/500/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/189554/HighAndLow.jpg",
+  lily: "https://eiga-pop.com/files/image/7809/image_7809_i680bd972e0e6b.jpg",
+  ppRider: "https://cdn.posteritati.com/posters/000/000/015/659/p-p-rider-md-web.jpg",
+  summerWars: "https://img.homemcr.org/CXDYLuSYurfLn3EC8M9FXaLjwjaibOZ19Zl4zC_cDGg/rs%3Afit%3A1920%3A800%3A1/aHR0cHM6Ly9ob21lbWNyLm9yZy8vY21zX2ZpbGVzL3N5c3RlbS9pbWFnZXMvaW1nMTgxMV9vcmlnLmpwZw",
   goodMorning: "https://image.tmdb.org/t/p/original/aX3neIX5o18tM2iTyZhk2igvR3Q.jpg",
-  trainBusan: "https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMTQ4NTIzOTE@._V1_FMjpg_UX1000_.jpg",
-  aSadWorld: "https://m.media-amazon.com/images/M/MV5BNTJlNDViODAtYzUxOS00OTNmLWE3OTYtYzViODlkNTMyNDAxXkEyXkFqcGc%40._V1_.jpg",
+  trainBusan: "https://www.ifccenter.com/wp-content/uploads/2016/07/train-to-busan_592x299-6.jpg",
+  aSadWorld: "https://images.squarespace-cdn.com/content/v1/5729202420c647e5196d1698/576aac09-2783-4acc-990e-8a716c1af93a/poster%2Bbelgium_page-0001%2Bcopy.jpg?format=1000w",
   olmo: "https://tr.web.img2.acsta.net/img/0f/23/0f232050dc3fcea92f93ee8cb62aa5bb.jpg",
   lateFame: "https://www.newdvdreleasedates.com/images/posters/late-fame-2025.jpg",
   miasma: "https://m.media-amazon.com/images/M/MV5BZTc4NmU5MjgtZTJmMi00YmFjLWI5NzktN2JjMzZlMjUzZDFkXkEyXkFqcGc%40._V1_.jpg",
-  bendRiver: "https://m.media-amazon.com/images/M/MV5BMTY1OTM0MDQ3Nl5BMl5BanBnXkFtZTcwMjY0MzE0MQ@@._V1_.jpg",
+  bendRiver: "https://www.documentary.org/sites/default/files/styles/large/public/2025-08/BendintheRiver.jpg.webp?itok=uQG8_nAM",
+  twoRobb: "https://www.documentary.org/sites/default/files/styles/large/public/2025-08/_Bend_Group_Riverdogs_riverbank.jpg.webp?itok=9876_Tw5",
   blackGod: "https://image.tmdb.org/t/p/original/aXjyGU98qhdWHgWMOC2gkKdNbPb.jpg",
   chaser: "https://m.media-amazon.com/images/M/MV5BZGZjMDU2ODAtMzFlNy00MWU1LWE1YTEtYTFmZTE0ZmEyYjYxXkEyXkFqcGc%40._V1_.jpg",
   laNotte: "https://m.media-amazon.com/images/M/MV5BN2QyMDhkOTctNDhjNC00NjFjLTliMDAtMGE1MDY3NjAzNDhlXkEyXkFqcGc%40._V1_.jpg",
   walkabout: "https://www.vintagemovieposters.co.uk/wp-content/uploads/2020/09/IMG_9571-2-768x576.jpeg",
-  possession: "https://m.media-amazon.com/images/M/MV5BZDdkZTg2ZDctNDU2Yi00MmE4LWIwZTYtMGJjY2I3MzU4ZTg3XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+  possession: "https://vhx.imgix.net/metrograph/assets/3e430b30-6970-41d7-95f1-170200834ccd.png?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640",
   itEnds: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak%3D/v3/t/assets/p30145695_v_v8_aa.jpg",
   memoria: "https://strapi.api-tvcine.com/uploads/3a0786a21aa04b72b22eae66cbb7f0ef.jpg",
   stalker: "https://playhousecinema.ca/files/princesscinemas/movie-posters/stalker.jpeg",
-  mulholland: "https://www.cinemazed.be/sites/default/files/poster/12294-mulholland-drive-cineart-def.jpg",
+  mulholland: "https://static.cinemagia.ro/img/resize/db/movie/00/25/16/mulholland-drive-311011l-576x0-w-07d0f923.jpg",
   goodbyeDragon: "https://teatenerife.es/verImagen/news/DKSxQWS5oswW6IBUOZoH.jpg/thumbs",
   happyHour: "https://www.cinema4stelle.it/wp-content/uploads/2022/03/HappyHourposteroklight.jpg",
-  hope: "https://m.media-amazon.com/images/M/MV5BMTkzZjE1M2UtNjgxMi00N2M2LTlkODctZjVkZTE3MTA2M2ZjXkEyXkFqcGc%40._V1_.jpg",
-  filipinana: "https://m.media-amazon.com/images/M/MV5BYmNlZjQxYjYtYWUzNi00NTg3LWI5YzMtZjQyOTRiMjM3MzViXkEyXkFqcGc%40._V1_.jpg",
+  hope: "https://www.harpersbazaar.co.kr/resources/online/online_image/2026/06/18/b736bfc3-4d39-4a38-af6e-f0778599c6dd.jpg",
+  filipinana: "https://images.squarespace-cdn.com/content/v1/5a6db6f7bce1769a4f753bf1/1768972921424-L9IBE57QR001HCQKIDAS/Filipinana%2B011520261.jpg",
 };
 
 const cardBg = (image:string) => ({backgroundImage:`linear-gradient(180deg,rgba(6,7,8,.2),rgba(6,7,8,.76) 45%,rgba(6,7,8,.97) 82%),url("${image}")`});
@@ -106,7 +107,7 @@ const classics:Film[]=[
 const newHits:Film[]=[
  {title:"Mysterious Skin",year:"2004 / 2026 restoration",region:"USA",director:"Gregg Araki",type:"Queer coming-of-age drama",venue:"IFC Center",when:"Aug 14–20 · event shows Fri 7:15 / 9:50; Sat 2:05",format:"New 4K restoration",event:"Araki and novelist Scott Heim Fri; Araki Sat",tags:["NEW 4K","Q&A"],text:"Araki’s most devastating film follows two young men processing childhood trauma through radically different stories. The sold-out Q&As confirm demand; the Friday 9:50 extended introduction is the practical target.",href:links.mysterious,image:images.mysterious},
  {title:"Train to Busan / 부산행",year:"2016 / 2026 restoration",region:"South Korea",director:"Yeon Sang-ho",type:"Zombie thriller",venue:"IFC Center",when:"Opens Fri Aug 14 · daily showtimes",format:"10th-anniversary 4K restoration",tags:["4K","ASIAN GENRE"],text:"A high-speed train becomes a pressure cooker for class conflict and parental sacrifice. The tenth-anniversary restoration is a crowd-ready return for one of modern Korean genre cinema’s biggest breakouts.",href:"https://www.ifccenter.com/films/train-to-busan/",image:images.trainBusan},
- {title:"Union County",year:"2026",region:"USA",director:"Adam Meeks",type:"Independent drama",venue:"IFC Center",when:"Opens Fri Aug 14 · event shows Fri 7:00; Sat 7:00; Sun 2:00",event:"Meeks, Will Poulter and Annette Deao at all three; Danny Strong moderates Fri",tags:["OPENING WEEK","Q&A"],text:"A rural-Ohio recovery drama carried by Will Poulter and Noah Centineo. Friday is sold out, but the Saturday and Sunday conversations were still ticketed at last verification.",href:links.union,image:"https://m.media-amazon.com/images/M/MV5BNDAyNTM5NmMtODQ2YS00ODk3LThlNTQtZGEyYmEwYTBiM2I2XkEyXkFqcGc%40._V1_.jpg"},
+ {title:"Union County",year:"2026",region:"USA",director:"Adam Meeks",type:"Independent drama",venue:"IFC Center",when:"Opens Fri Aug 14 · event shows Fri 7:00; Sat 7:00; Sun 2:00",event:"Meeks, Will Poulter and Annette Deao at all three; Danny Strong moderates Fri",tags:["OPENING WEEK","Q&A"],text:"A rural-Ohio recovery drama carried by Will Poulter and Noah Centineo. Friday is sold out, but the Saturday and Sunday conversations were still ticketed at last verification.",href:links.union,image:"https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/07/unioncojpg-3.jpg"},
 ];
 const worth:Film[]=[
  {title:"The Bend in the River",year:"1987 / 2026 restoration",region:"USA",director:"Robb Moss",type:"Documentary",venue:"Film Forum",when:"Fri Aug 14–Thu Aug 20; Fri 8:10 PM event",event:"Q&A with Robb Moss and Barry Wasserman",tags:["RESTORATION","Q&A"],text:"Moss revisits a group of river travelers as youth hardens into adult life. The opening Q&A adds both filmmaker and participant, making the film’s long-view documentary ethics unusually tangible.",href:"https://filmforum.org/film/the-bend-in-the-river",image:images.bendRiver},
@@ -115,14 +116,14 @@ const worth:Film[]=[
 ];
 const noteworthy:Film[]=[
  {title:"Scary Movies XIV",year:"2026",region:"International",director:"16-film program",type:"Horror festival · premieres",venue:"Film at Lincoln Center",when:"Aug 14–20",event:"Guest-bearing shows throughout; see Event Radar",tags:["FESTIVAL","Q&As"],text:"FLC’s genre showcase is not background noise this week: world and North American premieres arrive with unusually strong guest access. Henry, Bodyhackers and Family Movie are the key event nights for this user.",href:links.scary,image:images.henry},
- {title:"Two by Robb Moss",year:"1991 program",region:"USA",director:"Robb Moss",type:"Documentary double bill",venue:"Metrograph",when:"Sat Aug 15 · 3:00 PM",event:"Q&A with Robb Moss, moderated by Jeff Reichert",tags:["Q&A","DOCUMENTARY"],text:"Moss’s nonfiction practice gets a compact two-film presentation and a filmmaker-to-filmmaker conversation. Note the near-impossible timing with Ōshima at BAM ending around the same hour.",href:"https://metrograph.com/nyc/",image:images.bendRiver},
- {title:"E. Conner + Tony Conrad",year:"Experimental program",region:"USA",director:"E. Conner / Tony Conrad",type:"Avant-garde shorts",venue:"Anthology Film Archives",when:"Thu Aug 20 · 8:30 PM",format:"16mm / film program as listed",tags:["EXPERIMENTAL"],text:"A concentrated evening for adventurous viewing after the week’s narrative heavyweights. Anthology’s Essential Cinema context is the reason to take the program seriously rather than as an appendix.",href:"https://www.anthologyfilmarchives.org/film_screenings/series/61653",image:"https://www.anthologyfilmarchives.org/uploads/essential-cinema.jpg"},
+ {title:"Two by Robb Moss",year:"1991 program",region:"USA",director:"Robb Moss",type:"Documentary double bill",venue:"Metrograph",when:"Sat Aug 15 · 3:00 PM",event:"Q&A with Robb Moss, moderated by Jeff Reichert",tags:["Q&A","DOCUMENTARY"],text:"Moss’s nonfiction practice gets a compact two-film presentation and a filmmaker-to-filmmaker conversation. Note the near-impossible timing with Ōshima at BAM ending around the same hour.",href:"https://metrograph.com/nyc/",image:images.twoRobb},
+ {title:"E. Conner + Tony Conrad",year:"Experimental program",region:"USA",director:"E. Conner / Tony Conrad",type:"Avant-garde shorts",venue:"Anthology Film Archives",when:"Thu Aug 20 · 8:30 PM",format:"16mm / film program as listed",tags:["EXPERIMENTAL"],text:"A concentrated evening for adventurous viewing after the week’s narrative heavyweights. Anthology’s Essential Cinema context is the reason to take the program seriously rather than as an appendix.",href:"https://www.anthologyfilmarchives.org/film_screenings/series/61653",image:"https://static-assets.artlogic.net/w_1300%2Ch_780%2Cc_limit%2Cf_auto%2Cfl_lossy/ws-thomasdane/usr/exhibitions/images/184/1958_bc_a-movie6-copy.jpg"},
 ];
 const allOther:Film[]=[
  {title:"La Notte",year:"1961",region:"Italy / France",director:"Michelangelo Antonioni",type:"Modernist drama",venue:"Metrograph",when:"Fri Aug 14 · 3:50 PM; Sun Aug 16 · 7:15 PM",tags:["CLASSIC"],text:"A marriage erodes across one Milanese night; cool surfaces conceal existential panic.",href:"https://metrograph.com/film/?vista_film_id=9999004957",image:images.laNotte},
- {title:"The Hunger",year:"1983",region:"UK / USA",director:"Tony Scott",type:"Erotic vampire horror",venue:"Metrograph",when:"Fri Aug 14 · 8:45 PM",format:"35mm",tags:["35MM","CULT"],text:"Catherine Deneuve, David Bowie and Susan Sarandon in a high-style nocturnal cult object.",href:"https://metrograph.com/film/?vista_film_id=9999001195",image:"https://m.media-amazon.com/images/M/MV5BNzI1MTU3NmUtMDQ3Yi00YjEwLTg1ZjYtNzQxMWZkZTlmNGU0XkEyXkFqcGc%40._V1_.jpg"},
- {title:"Obsession",year:"1976",region:"USA",director:"Brian De Palma",type:"Psychological thriller",venue:"Metrograph",when:"Fri Aug 14 · 8:50 PM; Sat Aug 15 · 8:20 PM",tags:["DE PALMA"],text:"De Palma and Schrader refract Vertigo through grief, doubles and operatic fixation.",href:"https://metrograph.com/film/?vista_film_id=9999000197",image:"https://m.media-amazon.com/images/M/MV5BN2E1ZmJkNGEtNzRjOC00YTFkLWI3NGUtNGNhMmUwOWM0NzNhXkEyXkFqcGc%40._V1_.jpg"},
- {title:"Chungking Express / 重慶森林",year:"1994",region:"Hong Kong",director:"Wong Kar-wai",type:"Romance · urban pop",venue:"Metrograph",when:"Fri Aug 14 · 10:50 PM; Sat Aug 15 · 10:25 PM; Sun Aug 16 · 9:45 PM",tags:["ASIAN CINEMA"],text:"Listed for completeness but intentionally down-weighted: you know WKW well and have rarer priorities this week.",href:"https://metrograph.com/film/?vista_film_id=9999000735",image:"https://m.media-amazon.com/images/M/MV5BYWU0ZDMwODItYTIwOS00ZjUwLWE3NTctMDI2MDY2OGJiOWJhXkEyXkFqcGc%40._V1_.jpg"},
+ {title:"The Hunger",year:"1983",region:"UK / USA",director:"Tony Scott",type:"Erotic vampire horror",venue:"Metrograph",when:"Fri Aug 14 · 8:45 PM",format:"35mm",tags:["35MM","CULT"],text:"Catherine Deneuve, David Bowie and Susan Sarandon in a high-style nocturnal cult object.",href:"https://metrograph.com/film/?vista_film_id=9999001195",image:"https://metrograph.com/wp-content/uploads/2026/06/The-Hunger.jpg"},
+ {title:"Obsession",year:"1976",region:"USA",director:"Brian De Palma",type:"Psychological thriller",venue:"Metrograph",when:"Fri Aug 14 · 8:50 PM; Sat Aug 15 · 8:20 PM",tags:["DE PALMA"],text:"De Palma and Schrader refract Vertigo through grief, doubles and operatic fixation.",href:"https://metrograph.com/film/?vista_film_id=9999000197",image:"https://metrograph.com/wp-content/uploads/2026/07/obses07h.jpeg"},
+ {title:"Chungking Express / 重慶森林",year:"1994",region:"Hong Kong",director:"Wong Kar-wai",type:"Romance · urban pop",venue:"Metrograph",when:"Fri Aug 14 · 10:50 PM; Sat Aug 15 · 10:25 PM; Sun Aug 16 · 9:45 PM",tags:["ASIAN CINEMA"],text:"Listed for completeness but intentionally down-weighted: you know WKW well and have rarer priorities this week.",href:"https://metrograph.com/film/?vista_film_id=9999000735",image:"https://pds.exblog.jp/pds/1/201507/17/36/e0052736_17224432.jpg"},
  {title:"Possession",year:"1981",region:"France / West Germany",director:"Andrzej Żuławski",type:"Psychological horror · cult canon",venue:"Metrograph",when:"Thu Aug 20 · 9:50 PM",format:"4K restoration",tags:["4K","CULT"],text:"A marriage disintegrates into espionage, hysteria and creature horror—an essential late-night test of nerve.",href:"https://metrograph.com/nyc/",image:images.possession},
 ];
 
