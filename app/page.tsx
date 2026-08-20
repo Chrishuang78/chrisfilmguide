@@ -27,6 +27,7 @@ const links = {
   mulholland:"https://metrograph.com/film/?vista_film_id=9999002169",
   goodbye:"https://metrograph.com/film/?vista_film_id=9999000006",
   brighter:"https://metrograph.com/film/?vista_film_id=9999002246",
+  daughter:"https://metrograph.com/film/?vista_film_id=9999003057",
   hope:"https://www.neonrated.com/film/hope",
   filipinana:"https://filmforum.org/film/filipinana",
 };
@@ -52,6 +53,7 @@ const images = {
   mulholland:"https://static.cinemagia.ro/img/resize/db/movie/00/25/16/mulholland-drive-311011l-576x0-w-07d0f923.jpg",
   goodbye:"https://teatenerife.es/verImagen/news/DKSxQWS5oswW6IBUOZoH.jpg/thumbs",
   brighter:"https://cdn.bingebase.com/movies/23741/posters/3l8fOAwiN3N5n3hHnZ51eog7Zu2.webp",
+  daughter:"https://kinolorber.com/media_cache/userFiles/uploads/products/daughter-of-the-nile/full/81k3LqfsynL._SX600_.jpg",
   hope:"https://www.harpersbazaar.co.kr/resources/online/online_image/2026/06/18/b736bfc3-4d39-4a38-af6e-f0778599c6dd.jpg",
   filipinana:"https://images.squarespace-cdn.com/content/v1/5a6db6f7bce1769a4f753bf1/1768972921424-L9IBE57QR001HCQKIDAS/Filipinana%2B011520261.jpg",
 };
@@ -118,6 +120,7 @@ const noteworthy:Film[]=[
 const coming:Film[]=[
  {title:"Mulholland Drive",year:"2001",region:"USA / France",director:"David Lynch",type:"Dream-noir · psychological mystery",venue:"Metrograph",when:"Sat Aug 29 · 10:30 PM; Sun Aug 30 · 4:00 PM; Sat Sep 5 · 10:45 PM",format:"35mm",tags:["SPECIAL FOCUS","35MM"],text:"A direct Lynch match and one of the defining films of the century. The late Saturday print screening is ideal, but the Sunday matinee is the safer practical choice.",href:links.mulholland,image:images.mulholland},
  {title:"Goodbye, Dragon Inn / 不散",year:"2003",region:"Taiwan",director:"Tsai Ming-liang",type:"Slow cinema · movie-palace elegy",venue:"Metrograph",when:"Sun Aug 30 · 11:15 AM",format:"DCP",tags:["SPECIAL FOCUS","RARE SCREENING"],text:"Tsai’s near-wordless farewell to a dying cinema should be seen inside one. This is exactly the kind of one-off Special Focus screening the 30-day sweep exists to protect.",href:links.goodbye,image:images.goodbye},
+ {title:"Daughter of the Nile / 尼羅河女兒",year:"1987",region:"Taiwan",director:"Hou Hsiao-hsien",type:"Urban youth drama",venue:"Metrograph",when:"Fri Sep 4 · 5:15 PM; Sat Sep 5 · 9:00 PM",format:"DCP",tags:["SPECIAL FOCUS","RARE SCREENING"],text:"A pivotal, less frequently screened bridge between Hou’s coming-of-age films and his later historical cycle, with contemporary Taipei finally taking center stage. Metrograph’s schedule lists two screenings even though the film-detail page’s session module had not yet populated at verification.",href:links.daughter,image:images.daughter},
  {title:"A Brighter Summer Day / 牯嶺街少年殺人事件",year:"1991",region:"Taiwan",director:"Edward Yang",type:"Historical youth epic",venue:"Metrograph",when:"Sat Sep 5 · 1:35 PM; Mon Sep 7 · 5:15 PM",format:"DCP",tags:["SPECIAL FOCUS","ASIAN CANON"],text:"Yang’s four-hour epic turns a teenage murder case into a social history of Taiwan. Two dates make this a rare but schedulable direct hit.",href:links.brighter,image:images.brighter},
  {title:"Hope",year:"2026",region:"South Korea",director:"Na Hong-jin",type:"Supernatural thriller",venue:"NYC venue TBA",when:"Wed Sep 9 · NYC opening",format:"TBA",tags:["NEON","SPECIAL FOCUS DISTRIBUTOR"],text:"Na Hong-jin’s long-awaited return is the 30-day window’s most important NEON release for your Korean and cult-horror interests. Exact NYC theater and showtimes remain unannounced; track NEON’s page.",href:links.hope,image:images.hope},
  {title:"The Sun Never Sets",year:"2026",region:"USA",director:"Joe Swanberg",type:"Independent relationship comedy",venue:"IFC Center",when:"Fri Sep 4 · regular engagement opens",format:"DCP",tags:["NEW RELEASE"],text:"Dakota Fanning anchors Swanberg’s Anchorage-set return to intimate relationship comedy. The Aug 22 sneak preview has the week’s star Q&A; the regular run begins September 4 with times TBA.",href:links.sun,image:images.itEnds},
