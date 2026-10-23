@@ -1,462 +1,83 @@
 {
   "films": {
-    "devils": {
-      "title": "The Devils",
-      "year": "1971",
-      "region": "United Kingdom",
-      "director": "Ken Russell",
-      "type": "Historical horror / political provocation",
-      "venue": "IFC Center; also FLC",
-      "when": "Oct 16–22 daily · 10:35 AM, 1:20, 4:05, 6:50 & 9:35 PM; Fri/Sat also 11:59 PM",
-      "format": "Uncensored 2004 edit · newly restored 35mm · 114 min",
-      "tags": [
-        "35MM",
-        "NEW RESTORATION",
-        "CULT CANON"
-      ],
-      "text": "Russell’s church-and-state nightmare is a defining work of transgressive cinema, not merely a Halloween curiosity. Choose the restored print this week: IFC and FLC have 35mm, while BAM’s engagement is digital.",
-      "href": "https://www.ifccenter.com/films/the-devils/",
-      "event": "",
-      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/08/the-devils2.jpg"
-    },
-    "zven": {
-      "title": "Zvenygora / Звенигора",
-      "year": "1928",
-      "region": "Ukraine / USSR",
-      "director": "Oleksandr Dovzhenko",
-      "type": "Silent poetic epic",
-      "venue": "Metrograph",
-      "when": "Sat Oct 17 · 12:30 PM",
-      "format": "35mm · 92 min · Austrian Film Museum print",
-      "tags": [
-        "35MM",
-        "LIVE SCORE",
-        "RARE SCREENING"
-      ],
-      "text": "A thousand years of Ukrainian legend collapse into Dovzhenko’s radical montage. The archive print and new live score make this the week’s most irreplaceable repertory event.",
-      "href": "https://metrograph.com/film/?vista_film_id=9999005036",
-      "event": "Live score by medukha: Asia Mieleszko, Max Temnogorod and Salina Kuo",
-      "image": "https://metrograph.com/wp-content/uploads/2026/09/Zvenygora.jpeg"
-    },
-    "amoeba": {
-      "title": "Amoeba",
-      "year": "2025",
-      "region": "Singapore",
-      "director": "Siyou Tan",
-      "type": "Adolescent rebellion / supernatural drama",
+    "leila": {
+      "title": "Leila and the Wolves / Layla wa al zi’ab",
+      "year": "1984",
+      "region": "Lebanon / United Kingdom",
+      "director": "Heiny Srour",
+      "type": "Hybrid historical essay",
       "venue": "Roxy Cinema",
-      "when": "Fri Oct 16 · 7:00 PM",
-      "format": "NYC premiere · 99 min",
+      "when": "Tue Oct 27 · 7:00 PM",
+      "format": "DCP",
+      "event": "Introduction by Dina A. Ramadan; tickets on sale",
       "tags": [
-        "NYC PREMIERE",
-        "DIRECTOR Q&A",
-        "SOUTHEAST ASIA"
+        "Top Pick",
+        "Middle Eastern Cinema",
+        "Rare Screening",
+        "Introduction"
       ],
-      "text": "Four misfits in an elite Singapore girls’ school invent a gang against the country’s machinery of conformity. The combination of Southeast Asian discovery and a first local filmmaker conversation earns priority over familiar repertory.",
-      "href": "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-amoeba/",
-      "event": "Q&A with Siyou Tan, moderated by Cristine Brache",
-      "image": "https://djmzubtjl6upi.cloudfront.net/wp-content/uploads/sites/9/2026/09/Amoeba-1500.jpg"
+      "text": "Srour folds drama, archive, fantasy and mosaic structure into a forceful counter-history of Arab women in Palestine and Lebanon. Its challenge to colonial and male-authored history closely matches your interest in unstable truth and the ethics of who gets to narrate it; this one-night presentation is the week’s clearest discovery.",
+      "href": "https://www.roxycinemanewyork.com/screenings/leila-and-the-wolves-presented-by-miss-video-4-u/",
+      "image": "https://djmzubtjl6upi.cloudfront.net/wp-content/uploads/sites/9/2026/09/leilaandthewolves-1500.jpg"
     },
-    "nostos": {
-      "title": "Nostos: The Return",
-      "year": "1989",
-      "region": "Italy",
-      "director": "Franco Piavoli",
-      "type": "Sensory / mythic cinema",
-      "venue": "Metrograph",
-      "when": "Mon Oct 19 · 6:10 PM",
-      "format": "2K restoration · DCP · 85 min",
-      "tags": [
-        "RESTORATION",
-        "RARE SCREENING",
-        "APICHATPONG AFFINITY"
-      ],
-      "text": "Piavoli retells the Odyssey through landscape, sound and half-understood language. For your Apichatpong and formally adventurous tastes, this nearly wordless experience is a stronger discovery than another prestige release.",
-      "href": "https://metrograph.com/film/?vista_film_id=9999005021",
-      "event": "",
-      "image": "https://metrograph.com/wp-content/uploads/2026/09/Nostos.jpg"
-    },
-    "harlem": {
-      "title": "Once Upon a Time in Harlem",
-      "year": "2026",
-      "region": "United States",
-      "director": "William Greaves & David Greaves",
-      "type": "Documentary / Black cultural history",
-      "venue": "Film at Lincoln Center; Film Forum",
-      "when": "FLC Sat Oct 17 · 6:00 & 6:30 PM; Sun Oct 18 · 3:30 & 4:00 PM. Film Forum Fri Oct 16 · 6:00 & 7:00 PM",
-      "format": "100 min",
-      "tags": [
-        "NEON",
-        "FILMMAKER Q&A",
-        "NEW RELEASE"
-      ],
-      "text": "William Greaves’s extraordinary gathering of Harlem Renaissance elders finally becomes a feature through his son’s work. Choose a guest-bearing show rather than treating this as an interchangeable documentary run.",
-      "href": "https://www.filmlinc.org/films/once-upon-a-time-in-harlem/",
-      "event": "FLC: David Greaves, Liani Greaves & Anne de Mare. Film Forum: David & Liani Greaves.",
-      "image": "https://wp.filmlinc.org/wp-content/uploads/2026/07/Once-Upon-a-Time-in-Harlem_NYFF64_02.jpg"
-    },
-    "east": {
-      "title": "From the East / D’est",
-      "year": "1993",
-      "region": "Belgium / France",
-      "director": "Chantal Akerman",
-      "type": "Observational essay",
-      "venue": "MoMA",
-      "when": "Tue Oct 20 · 7:00 PM",
-      "format": "2K restoration · DCP · 115 min",
-      "tags": [
-        "RESTORATION",
-        "FORMAL CANON"
-      ],
-      "text": "Akerman’s tracking shots and patient queues make post-Soviet transition palpable without explanatory dialogue. This is an especially good extension of your interest in duration and minimalism after Hong and Hamaguchi.",
-      "href": "https://www.moma.org/calendar/events/11690",
-      "event": "",
-      "image": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDgvMjgvZ3Uyd2lwN3Q3X0RfRVNUXzUyLnBuZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ/D%27EST%2052.png?sha=bb13f1f2227626eb"
-    },
-    "home": {
-      "title": "No Home Movie",
-      "year": "2015",
-      "region": "Belgium / France",
-      "director": "Chantal Akerman",
-      "type": "Personal documentary",
-      "venue": "MoMA",
-      "when": "Thu Oct 22 · 4:00 PM",
-      "format": "DCP · 115 min",
-      "tags": [
-        "AKERMAN",
-        "FORMAL CANON"
-      ],
-      "text": "Akerman’s last feature finds immense pressure inside conversations with her mother and empty domestic space. It is a demanding, intimate companion to D’est rather than a conventional biographical documentary.",
-      "href": "https://www.moma.org/calendar/events/11695",
-      "event": "",
-      "image": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDgvMjgvMTRsZzB2bTY0c19OT19IT01FX01PVklFXzAzX0ltYWdlX2NvdXJ0ZXN5X0ljYXJ1c19GaWxtcy5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/NO%20HOME%20MOVIE%2003_Image%20courtesy%20Icarus%20Films.jpg?sha=39123a3444f66559"
-    },
-    "insider": {
-      "title": "The Insider",
-      "year": "1999",
-      "region": "United States",
-      "director": "Michael Mann",
-      "type": "Investigative thriller",
-      "venue": "Metrograph",
-      "when": "Sat Oct 17 · 4:40 PM",
-      "format": "35mm · 157 min",
-      "tags": [
-        "35MM",
-        "GUEST Q&A"
-      ],
-      "text": "Mann makes institutional pressure visible through bodies, architecture and electronic atmosphere. The real reporter at the center of the story appearing with Pablo Torre is the substantive upgrade over a regular revival.",
-      "href": "https://metrograph.com/film/?vista_film_id=9999003555",
-      "event": "Q&A with Lowell Bergman & Pablo Torre",
-      "image": "https://metrograph.com/wp-content/uploads/2025/04/THE-INSIDER_1.jpeg"
-    },
-    "president": {
-      "title": "All the President’s Men",
-      "year": "1976",
-      "region": "United States",
-      "director": "Alan J. Pakula",
-      "type": "Political investigative thriller",
-      "venue": "Metrograph",
-      "when": "Sun Oct 18 · 1:00 PM",
-      "format": "4K DCP · 138 min",
-      "tags": [
-        "GUEST CONVERSATION",
-        "ALL-TIME CLASSIC"
-      ],
-      "text": "Pakula’s procedural remains a masterpiece of rooms, voices and uncertain evidence. Carl Bernstein’s conversation makes this more than a timely canonical rewatch.",
-      "href": "https://metrograph.com/film/?vista_film_id=9999001169",
-      "event": "Carl Bernstein & Maggie Haberman; moderator Natalie Kitroeff",
-      "image": "https://metrograph.com/wp-content/uploads/2024/09/ALL-THE-PRESIDENTS-MEN_5.jpeg"
-    },
-    "paris": {
-      "title": "Paris Was a Woman",
-      "year": "1996",
-      "region": "United Kingdom",
-      "director": "Greta Schiller",
-      "type": "Queer cultural documentary",
-      "venue": "Metrograph",
-      "when": "Fri Oct 16 · 6:40 PM; Sat Oct 17 · 2:30 PM; Sun Oct 18 · 6:45 PM; Mon Oct 19 · 8:00 PM; Wed Oct 21 · 6:00 PM",
-      "format": "New 4K restoration · 75 min",
-      "tags": [
-        "4K RESTORATION",
-        "DIRECTOR Q&A"
-      ],
-      "text": "Schiller and Andrea Weiss reconstruct a network of women artists beyond the usual masculine mythology of interwar Paris. The restoration’s first weekend is unusually rich in filmmaker and author access.",
-      "href": "https://metrograph.com/film/?vista_film_id=9999003500",
-      "event": "Fri Q&A Schiller & Weiss, moderator Laura Flanders + signing; Sat same guests, moderator Jane Gaines; Sun intro Kirsten Larvick, Schiller & Weiss",
-      "image": "https://metrograph.com/wp-content/uploads/2026/09/Paris-Was-a-Woman-poster-image.jpg"
-    },
-    "highlow": {
-      "title": "High and Low / 天国と地獄",
-      "year": "1963",
+    "ozu": {
+      "title": "The Flavor of Green Tea over Rice / お茶漬の味",
+      "year": "1952",
       "region": "Japan",
-      "director": "Akira Kurosawa",
-      "type": "Crime thriller",
+      "director": "Yasujirō Ozu",
+      "type": "Domestic comedy-drama",
       "venue": "Metrograph",
-      "when": "Mon Oct 19 · 6:30 PM",
-      "format": "35mm · 143 min",
+      "when": "Sat Oct 24 · 12:50 PM",
+      "format": "35mm",
       "tags": [
-        "35MM",
-        "ASIAN CANON"
+        "Top Pick",
+        "Ozu",
+        "35mm",
+        "Introduction"
       ],
-      "text": "Kurosawa turns a ransom demand into an exact map of class and moral obligation. It deserves a visible canonical slot, but conflicts with the rarer Nostos screening; choose Piavoli if you already know this well.",
-      "href": "https://metrograph.com/film/?vista_film_id=9999000181",
-      "event": "",
-      "image": "https://metrograph.com/wp-content/uploads/2026/09/HIGH-AND-LOW_10.jpeg"
+      "text": "Ozu’s sharp domestic comedy studies the compromises behind a marriage without reducing either spouse to a thesis. A 35mm print plus Genevieve Yue’s introduction makes this precisely the kind of canonical Asian-cinema occasion that should not be buried in the daily grid.",
+      "href": "https://metrograph.com/film/?vista_film_id=9999003990",
+      "event": "Introduction by Genevieve Yue; tickets on sale",
+      "image": "https://metrograph.com/wp-content/uploads/2026/09/flavor_of_green_tea_over_rice_the_2-copy.jpg"
     },
-    "oldboy": {
-      "title": "Oldboy / 올드보이",
-      "year": "2003",
-      "region": "South Korea",
-      "director": "Park Chan-wook",
-      "type": "Revenge thriller",
+    "state": {
+      "title": "State Funeral / Государственные похороны",
+      "year": "2019",
+      "region": "Netherlands / Lithuania",
+      "director": "Sergei Loznitsa",
+      "type": "Archival documentary",
+      "venue": "MoMA",
+      "when": "Sat Oct 24 · 7:00 PM",
+      "format": "DCP",
+      "event": "Followed by Sergei Loznitsa in conversation with Julia Loktev; check live inventory",
+      "tags": [
+        "Top Pick",
+        "Archival Cinema",
+        "Conversation",
+        "Documentary Ethics"
+      ],
+      "text": "Loznitsa repurposes state footage of Stalin’s funeral into an unnerving study of spectacle, belief and the evidentiary ambiguity of official images. The post-screening exchange with Julia Loktev makes it an unusually strong match for your new emphasis on nonfiction authorship, manipulation and unstable truth.",
+      "href": "https://www.moma.org/calendar/events/11708",
+      "image": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDkvMDkvOGl3Y2N0MHc3M19TdGF0ZUZ1bmVyYWxfU3RpbGxfMDMuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d/StateFuneral_Still_03.jpg?sha=9ca5f7a7aa197450"
+    },
+    "virgina": {
+      "title": "Virgina",
+      "year": "1991",
+      "region": "Yugoslavia",
+      "director": "Srđan Karanović",
+      "type": "Drama",
       "venue": "Metrograph",
-      "when": "Sat Oct 17 · 11:00 PM",
-      "format": "4K DCP · 120 min",
+      "when": "Fri Oct 23 & Sat Oct 24 · 6:00 PM; Sun 9:15 PM; Mon 7:45 PM; Tue 8:25 PM; Thu 7:00 PM",
+      "format": "DCP",
+      "event": "Jenni Olson in person Oct 23–25; tickets on sale",
       "tags": [
-        "NEON",
-        "KOREAN CULT CANON"
+        "Rare Screening",
+        "Jenni Olson Selects",
+        "Guest"
       ],
-      "text": "Park’s formal control and corrosive revenge structure make this influential cult cinema rather than a generic late show. It is a strong theatrical option, though less scarce than the day’s live-score and reporter events.",
-      "href": "https://metrograph.com/film/?vista_film_id=9999000490",
-      "event": "",
-      "image": "https://metrograph.com/wp-content/uploads/2025/06/OLDBOY_1-copy.jpg"
-    },
-    "okja": {
-      "title": "Okja / 옥자",
-      "year": "2017",
-      "region": "South Korea / United States",
-      "director": "Bong Joon-ho",
-      "type": "Satirical adventure",
-      "venue": "Metrograph",
-      "when": "Fri Oct 16 · 1:45 PM; Sat Oct 17 · noon",
-      "format": "4K DCP · 120 min",
-      "tags": [
-        "ASIAN CINEMA",
-        "BONG JOON-HO"
-      ],
-      "text": "Bong’s tonal collisions turn a creature adventure into a critique of industrial consumption. The theatrical return is welcome, although Saturday directly conflicts with Zvenygora and should rank below it.",
-      "href": "https://metrograph.com/film/?vista_film_id=9999001736",
-      "event": "",
-      "image": "https://metrograph.com/wp-content/uploads/2026/09/okja_4.jpeg"
-    },
-    "redline": {
-      "title": "Redline",
-      "year": "2009",
-      "region": "Japan",
-      "director": "Takeshi Koike",
-      "type": "Hand-drawn science-fiction animation",
-      "venue": "IFC Center",
-      "when": "Fri Oct 16 & Sat Oct 17 · 11:50 PM",
-      "format": "DCP · 102 min",
-      "tags": [
-        "ANIMATION",
-        "CULT CINEMA"
-      ],
-      "text": "Koike’s deliriously drawn racing spectacle deserves a screen big enough to make its labor and velocity visible. This is the midnight pick for sheer formal excess rather than another familiar horror repeat.",
-      "href": "https://www.ifccenter.com/films/redline/",
-      "event": "",
-      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/09/redline1.jpg"
-    },
-    "great": {
-      "title": "The Great Experiment",
-      "year": "2026",
-      "region": "United States",
-      "director": "Stephen Maing & Eric Metzgar",
-      "type": "Political documentary",
-      "venue": "IFC Center",
-      "when": "Fri Oct 16 & Sat Oct 17 · 7:15 PM Q&As; daily run continues through Oct 22",
-      "format": "DCP · 100 min",
-      "tags": [
-        "DIRECTOR Q&A",
-        "NEW RELEASE"
-      ],
-      "text": "Maing and Metzgar’s political inquiry is most compelling as a conversation starter. Laura Poitras on Friday and Geeta Gandbhir on Saturday give the opening weekend distinct reasons to attend.",
-      "href": "https://www.ifccenter.com/films/the-great-experiment-2/",
-      "event": "Fri: Stephen Maing, moderator Laura Poitras. Sat: Maing & Farihah Zaman, moderator Geeta Gandbhir.",
-      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/09/the-great-experiment-1.jpg"
-    },
-    "million": {
-      "title": "One in a Million",
-      "year": "2026",
-      "region": "Syria / Germany / United Kingdom",
-      "director": "Itab Azzam & Jack MacInnes",
-      "type": "Refugee coming-of-age documentary",
-      "venue": "IFC Center",
-      "when": "Wed Oct 21 & Thu Oct 22 · 10:50 AM, 1:00 & 7:00 PM",
-      "format": "DCP · 105 min",
-      "tags": [
-        "MIDDLE EAST",
-        "Q&As SOLD OUT"
-      ],
-      "text": "A decade-long portrait follows Israa from escape to a life in Germany, giving time and adolescence room to complicate the refugee narrative. Both evening Q&As are officially sold out; matinees remain the ordinary screening alternative, with no confirmed rush or waitlist policy.",
-      "href": "https://www.ifccenter.com/films/one-in-a-million/",
-      "event": "Both 7 PM shows: Azzam, MacInnes & Israa; Wed moderator Julie Goldman; Thu moderator not announced.",
-      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/09/oneinamillion.jpg"
-    },
-    "fjord": {
-      "title": "Fjord",
-      "year": "2026",
-      "region": "Romania / Norway / France / Sweden / Denmark",
-      "director": "Cristian Mungiu",
-      "type": "Social drama",
-      "venue": "IFC Center",
-      "when": "Oct 16–19 · 10:45 AM daily; Tue Oct 20 · 3:50 PM; Wed Oct 21 · 12:45 PM; Thu Oct 22 · 10:45 AM; additional daily sessions on official page",
-      "format": "DCP · 146 min",
-      "tags": [
-        "NEON",
-        "CANNES 2026 · COMPETITION",
-        "PALME D’OR"
-      ],
-      "text": "Mungiu’s moral inquiry is a high-fit current release but no longer a scarce festival engagement. Use a convenient regular showing; the earlier filmmaker appearances have passed.",
-      "href": "https://www.ifccenter.com/films/fjord/",
-      "event": "",
-      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/09/fjord-2.jpg"
-    },
-    "case": {
-      "title": "Case 137 / Dossier 137",
-      "year": "2025",
-      "region": "France",
-      "director": "Dominik Moll",
-      "type": "Police procedural",
-      "venue": "Quad Cinema",
-      "when": "Fri/Sat · 12:10, 2:30, 4:50, 7:10 & 9:30 PM; Sun · 12:20, 2:40, 5:05 & 7:30 PM; Mon–Thu · 1:00, 3:20, 5:40 & 8:00 PM",
-      "format": "DCP · 115 min",
-      "tags": [
-        "CANNES 2025 · COMPETITION",
-        "NEW RELEASE"
-      ],
-      "text": "Moll studies the institutional manufacture of truth through an internal police investigation. It is a worthwhile contemporary counterpoint to the week’s American journalism classics, without an event premium.",
-      "href": "https://quadcinema.com/film/case-137/",
-      "event": "",
-      "image": "https://quadcinema.com/wp-content/uploads/2026/09/case1.jpg"
-    },
-    "hell": {
-      "title": "Hellraiser",
-      "year": "1987",
-      "region": "United Kingdom",
-      "director": "Clive Barker",
-      "type": "Body horror",
-      "venue": "IFC Center",
-      "when": "Wed Oct 21 & Thu Oct 22 · 2:35 & 9:30 PM",
-      "format": "New 4K restoration · DCP · 93 min",
-      "tags": [
-        "4K RESTORATION",
-        "CULT CANON"
-      ],
-      "text": "Barker’s erotic body horror belongs in the lineage of formally and sexually transgressive cinema you value. The restoration is the specific reason to revisit it amid a crowded Halloween calendar.",
-      "href": "https://www.ifccenter.com/films/hellraiser/",
-      "event": "",
-      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/10/hellraiser.jpg"
-    },
-    "begotten": {
-      "title": "Begotten",
-      "year": "1989",
-      "region": "United States",
-      "director": "E. Elias Merhige",
-      "type": "Experimental horror",
-      "venue": "IFC Center",
-      "when": "Fri Oct 16 & Sat Oct 17 · 11:40 PM",
-      "format": "4K restoration · DCP · 72 min",
-      "tags": [
-        "RESTORATION",
-        "EXPERIMENTAL",
-        "MIDNIGHT"
-      ],
-      "text": "Merhige’s degraded monochrome turns myth into an almost illegible moving-image artifact. It is the harsher midnight alternative to Redline, suited to your interest in radical form rather than conventional genre plotting.",
-      "href": "https://www.ifccenter.com/films/begotten/",
-      "event": "",
-      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/09/begotten-10.jpg"
-    },
-    "fly": {
-      "title": "The Fly",
-      "year": "1986",
-      "region": "United States / Canada",
-      "director": "David Cronenberg",
-      "type": "Body horror / tragic romance",
-      "venue": "Quad Cinema",
-      "when": "Fri Oct 16 · 9:35 PM; Tue Oct 20, Wed Oct 21 & Thu Oct 22 · 8:15 PM",
-      "format": "DCP · 96 min",
-      "tags": [
-        "CULT CANON",
-        "SPECIAL INTRODUCTIONS"
-      ],
-      "text": "Cronenberg’s fusion of desire, decay and scientific hubris remains foundational body horror. Choose an introduced show for context, or Wednesday for the film alone.",
-      "href": "https://quadcinema.com/film/the-fly/",
-      "event": "Fri intro Su Silver; Tue intro Tori Potenza; Thu intro Rebecca Ritchey.",
-      "image": "https://quadcinema.com/wp-content/uploads/2026/09/fly4.jpg"
-    },
-    "sweet": {
-      "title": "Sweet Rush / Tatarak",
-      "year": "2009",
-      "region": "Poland",
-      "director": "Andrzej Wajda",
-      "type": "Self-reflexive drama",
-      "venue": "Film Forum",
-      "when": "Mon Oct 19 · 8:10 PM; Tue Oct 20 · 3:00 PM; Wed Oct 21 · 4:00 PM",
-      "format": "85 min · format not specified",
-      "tags": [
-        "ACTOR CONVERSATION",
-        "WAJDA 100"
-      ],
-      "text": "Wajda lets fiction fracture around Krystyna Janda’s account of real bereavement. Its self-conscious construction is a closer personal match than a dutiful retrospective checklist, especially with Paweł Szajda present Monday.",
-      "href": "https://filmforum.org/film/sweet-rush-wajda-100",
-      "event": "Mon post-film conversation with Paweł Szajda",
-      "image": "https://filmforum.org/do-not-enter-or-modify-or-erase/client-uploads/SWEET_RUSH_thumbnail.png"
-    },
-    "ashes": {
-      "title": "Ashes and Diamonds / Popiół i diament",
-      "year": "1958",
-      "region": "Poland",
-      "director": "Andrzej Wajda",
-      "type": "Postwar political tragedy",
-      "venue": "Film Forum",
-      "when": "Thu Oct 22 · 5:50 PM",
-      "format": "Format not specified",
-      "tags": [
-        "ALL-TIME CLASSIC",
-        "WAJDA 100"
-      ],
-      "text": "Wajda’s combustible image-making turns the end of war into a crisis of identity rather than a clean liberation. The centenary series provides the right context for this foundational Polish modernist work.",
-      "href": "https://filmforum.org/film/ashes-and-diamonds-wajda-100",
-      "event": "",
-      "image": "https://filmforum.org/do-not-enter-or-modify-or-erase/client-uploads/ASHES_AND_DIAMONDS_thumbnail.jpg"
-    },
-    "illiac": {
-      "title": "The Illiac Passion",
-      "year": "1967",
-      "region": "United States",
-      "director": "Gregory J. Markopoulos",
-      "type": "Queer experimental myth",
-      "venue": "Metrograph",
-      "when": "Wed Oct 21 · 7:40 PM",
-      "format": "16mm · 90 min",
-      "tags": [
-        "16MM",
-        "RARE SCREENING",
-        "EXPERIMENTAL"
-      ],
-      "text": "Markopoulos transforms Prometheus through New York’s underground artists and an intensely personal montage language. The rare print deserves more weight than an easily repeated canonical revival.",
-      "href": "https://metrograph.com/film/?vista_film_id=9999005028",
-      "event": "",
-      "image": "https://metrograph.com/wp-content/uploads/2026/09/The-Illiac-Passion.jpg"
-    },
-    "exile": {
-      "title": "My Undesirable Friends: Part II — Exile · Chapters 4–5",
-      "year": "2026",
-      "region": "United States",
-      "director": "Julia Loktev",
-      "type": "Observational documentary",
-      "venue": "NYC MUBI GO partners; Film Forum public run",
-      "when": "GO week Oct 16–22. Film Forum: Fri–Sun 4:00 PM; Tue Oct 20 & Thu Oct 22 · 4:00 & 7:20 PM",
-      "format": "164 min · separate admission from Chapters 1–3",
-      "tags": [
-        "MUBI GO",
-        "CHAPTERS 4–5 ONLY"
-      ],
-      "text": "The live U.S. GO offer names Chapters 4–5, not the entire six-hour Part II and not Chapters 1–3. Worth using for Loktev’s immersive account of exile if you are prepared for the second half; confirm the eligible NYC venue/session in the app rather than assuming every public Film Forum show accepts GO.",
-      "href": "https://filmforum.org/film/my-undesirable-friends-part-ii-exile",
-      "event": "",
-      "image": "https://images.mubicdn.net/images/film/483489/cache-1159854-1791300190/image-w1280.jpg"
+      "text": "A young person assigned female at birth is raised as a sworn virgin in a patriarchal mountain community, giving Karanović’s late-Yugoslav drama unusual resonance in Jenni Olson’s trans-cinema program. The run is rare; choose one of the first three dates for Olson’s in-person framing.",
+      "href": "https://metrograph.com/film/?vista_film_id=9999005047",
+      "image": "https://metrograph.com/wp-content/uploads/2026/09/Iphigenia.jpeg"
     },
     "possible": {
       "title": "Possible Love / 가능한 사랑",
@@ -465,35 +86,302 @@
       "director": "Lee Chang-dong",
       "type": "Drama",
       "venue": "Film at Lincoln Center",
-      "when": "Opens Fri Oct 23 · 1:00, 4:15 & 7:45 PM daily through Oct 28 currently posted",
-      "format": "DCP · 164 min · Netflix",
+      "when": "Daily Oct 23–29 · 1:00, 4:15 & 7:45 PM (Thu times on listing)",
+      "format": "DCP",
       "tags": [
-        "SPECIAL FOCUS",
-        "LEE CHANG-DONG"
+        "Special Focus",
+        "Lee Chang-dong",
+        "Venice 2026 · Competition",
+        "Silver Lion"
       ],
-      "text": "Your NYFF Q&A is already completed, so treat this ordinary run as a relaxed revisit. The Paris Theater’s Nov 24 closing pairing on 35mm with Heartbeat is the scarcer event; its time and live inventory are not public in the series page.",
+      "text": "Lee Chang-dong turns economic precarity and documentary intrusion into a moral pressure chamber between two couples. You already prioritized the NYFF conversation, so the regular run is ideal for a lower-pressure revisit; the rarer Nov 24 35mm pairing remains the upgrade.",
       "href": "https://www.filmlinc.org/films/possible-love/",
-      "event": "",
+      "event": "Regular theatrical run; tickets on sale",
       "image": "https://wp.filmlinc.org/wp-content/uploads/2026/07/Possible-Love_NYFF64_01.jpeg"
     },
-    "hamaguchi": {
-      "title": "All of a Sudden / Soudain",
+    "father": {
+      "title": "Fatherland",
       "year": "2026",
-      "region": "France / Japan / Germany / Belgium",
-      "director": "Ryūsuke Hamaguchi",
+      "region": "Poland / Germany / Italy / France",
+      "director": "Paweł Pawlikowski",
       "type": "Drama",
-      "venue": "MoMA; FLC previews also announced",
-      "when": "MoMA Thu Nov 19 · 6:00 PM; FLC Nov 18–19 times TBA; opens Nov 25",
-      "format": "DCP · 196 min · NEON",
+      "venue": "Film at Lincoln Center / Film Forum",
+      "when": "Daily Oct 23–29; FLC Q&As Fri 6:30 PM & Sat 4:30 PM",
+      "format": "DCP",
       "tags": [
-        "SPECIAL FOCUS",
-        "DIRECTOR Q&A",
-        "90-DAY TICKET WATCH"
+        "Cannes 2026 · Competition",
+        "Best Director",
+        "Q&A"
       ],
-      "text": "This is the rewatch to plan around after your strong NYFF response. MoMA confirms Hamaguchi in conversation and exact sale dates; FLC separately announces Hamaguchi and Tao Okamoto for previews but has not published times or sale details.",
-      "href": "https://www.moma.org/calendar/events/11809",
-      "event": "MoMA Explore+ Nov 5; public Nov 12 · both 10:30 AM ET. Set a personal reminder.",
-      "image": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMDkvNW05ZmhpMnh6ZF9BbGxfb2ZfYV9TdWRkZW5fU3RpbGxfMDEuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d/All%20of%20a%20Sudden_Still%2001.jpg?sha=11f76d5a4672f2bf"
+      "text": "Pawlikowski’s postwar road film remains one of the week’s major new openings. Choose an FLC Q&A if the conversation matters; otherwise Film Forum’s broad daily schedule makes this easy to see without treating a standard run as scarce.",
+      "href": "https://www.filmlinc.org/films/fatherland/",
+      "event": "Paweł Pawlikowski Q&As at FLC Oct 23 & 24; tickets on sale",
+      "image": "https://wp.filmlinc.org/wp-content/uploads/2026/07/Fatherland_NYFF64_03.jpg"
+    },
+    "fjord": {
+      "title": "Fjord",
+      "year": "2026",
+      "region": "Romania / Norway / France / Sweden / Denmark",
+      "director": "Cristian Mungiu",
+      "type": "Social drama",
+      "venue": "IFC Center",
+      "when": "Daily Oct 23–29; see card for full schedule",
+      "format": "DCP · 146 min",
+      "tags": [
+        "Cannes 2026 · Competition",
+        "Palme d’Or",
+        "Extended Run"
+      ],
+      "text": "Mungiu’s Palme d’Or winner remains one of the week’s central international releases, but its long run reduces urgency relative to the one-offs. Pick a convenient matinee after securing the rarer guest and print screenings.",
+      "href": "https://www.ifccenter.com/films/fjord/",
+      "event": "Extended run; no new guest event this week",
+      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/09/fjord-2.jpg"
+    },
+    "yousee": {
+      "title": "You Can See Everything",
+      "year": "2026",
+      "region": "United States",
+      "director": "Nathan Fielder & Lance Oppenheim",
+      "type": "Self-reflexive documentary",
+      "venue": "Nitehawk Williamsburg / BAM",
+      "when": "Fri Oct 23 · 4:30, 6:00, 8:15 & 9:45 PM at Nitehawk (sold out); run continues",
+      "format": "DCP",
+      "event": "Nitehawk Friday sessions sold out; check official returns / later dates",
+      "tags": [
+        "A24",
+        "High-Priority Match",
+        "Documentary Ethics",
+        "Sold Out Friday"
+      ],
+      "text": "This is now a durable personal benchmark: A24 involvement and festival visibility matter, but the decisive fit is its volatile inquiry into performance, consent, manipulation and documentary authorship. You already flagged it; Friday’s Nitehawk sessions are sold out, so use later official sessions only if revisiting rather than displacing a rarer one-off.",
+      "href": "https://nitehawkcinema.com/williamsburg/movies/you-can-see-everything/?date=today",
+      "image": "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=1600&mode=crop&heightratio=0.5625&quality=85"
+    },
+    "primetime": {
+      "title": "Primetime",
+      "year": "2026",
+      "region": "United States",
+      "director": "Lance Oppenheim",
+      "type": "Crime drama / media critique",
+      "venue": "Nitehawk Williamsburg",
+      "when": "Fri Oct 23 · 3:15 & 8:30 PM; Sat–Thu multiple sessions",
+      "format": "DCP",
+      "event": "Tickets live",
+      "tags": [
+        "Venice 2026 · Competition",
+        "Media Ethics",
+        "New Release"
+      ],
+      "text": "Oppenheim’s dramatization of predatory-television culture interrogates spectatorship, public shaming and the machinery that converts ethics into entertainment. It is a natural companion to You Can See Everything, though the wide run makes it less urgent than this week’s one-offs.",
+      "href": "https://nitehawkcinema.com/williamsburg/movies/primetime/?date=today",
+      "image": "https://www.bam.org/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=1600&mode=crop&heightratio=0.5625&quality=85"
+    },
+    "opdocs": {
+      "title": "An Evening with The New York Times Op-Docs 2026, Part 1",
+      "year": "2026",
+      "region": "International",
+      "director": "Multiple directors",
+      "type": "Short documentary program",
+      "venue": "IFC Center",
+      "when": "Wed Oct 28 · 6:30 PM",
+      "format": "DCP",
+      "event": "Q&A with filmmakers and the Op-Docs team; tickets on sale",
+      "tags": [
+        "Documentary Ethics",
+        "Q&A",
+        "Short Films"
+      ],
+      "text": "A compact way to test multiple nonfiction strategies against the questions you now care about: framing, responsibility, compression and the manufacture of authority. The filmmakers-and-editors Q&A is the reason to choose this particular session over a generic shorts program.",
+      "href": "https://www.ifccenter.com/films/an-evening-with-the-new-york-times-op-docs-2026-part-1/",
+      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/10/OP-DOCS-2026.jpg"
+    },
+    "road": {
+      "title": "On the Road",
+      "year": "2026",
+      "region": "Mexico",
+      "director": "David Pablos",
+      "type": "Queer road drama",
+      "venue": "IFC Center",
+      "when": "Sneak preview Sun Oct 25 · 6:45 PM; opens Wed Oct 28",
+      "format": "DCP · 103 min",
+      "tags": [
+        "Venice 2025 · Orizzonti",
+        "Best Film",
+        "Director Q&A"
+      ],
+      "text": "Pablos’s Venice Orizzonti winner gets an advance Q&A before opening midweek. The guest session is the upgrade; once the run begins, urgency drops.",
+      "href": "https://www.ifccenter.com/films/on-the-road-2/",
+      "event": "David Pablos Q&A Oct 25; tickets on sale",
+      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/10/7-on-the-road.jpg"
+    },
+    "closure": {
+      "title": "Closure",
+      "year": "2026",
+      "region": "Poland",
+      "director": "Michal Marczak",
+      "type": "Documentary",
+      "venue": "IFC Center",
+      "when": "Wed Oct 28 & Thu Oct 29 · 6:45 PM",
+      "format": "DCP · 106 min",
+      "tags": [
+        "Sundance 2026 · World Cinema Documentary Competition",
+        "Director Q&A"
+      ],
+      "text": "Marczak’s nonfiction work is a direct fit for questions of performance, intervention and documentary boundaries. Either 6:45 Q&A is the correct way to see it; the two nights reduce sellout pressure.",
+      "href": "https://www.ifccenter.com/films/closure/",
+      "event": "Michal Marczak Q&A both nights; tickets on sale",
+      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/10/closure.jpg"
+    },
+    "mouse": {
+      "title": "Mouse",
+      "year": "2026",
+      "region": "United States",
+      "director": "Kelly O’Sullivan & Alex Thompson",
+      "type": "Drama",
+      "venue": "IFC Center",
+      "when": "Tue Oct 27 · 6:45 PM",
+      "format": "DCP",
+      "event": "Sneak preview + Q&A with Sophie Okonedo, Katherine Mallen Kupferer, Kelly O’Sullivan & Alex Thompson; tickets on sale",
+      "tags": [
+        "Sneak Preview",
+        "Cast & Directors Q&A"
+      ],
+      "text": "A substantial guest roster turns the sneak preview into the meaningful screening. The film itself is less directly aligned than Leila or the documentary-ethics programs, but the live discussion makes it a strong event option.",
+      "href": "https://www.ifccenter.com/films/mouse/",
+      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/10/mouse-2.jpg"
+    },
+    "habit": {
+      "title": "Habit",
+      "year": "1995",
+      "region": "United States",
+      "director": "Larry Fessenden",
+      "type": "Independent horror",
+      "venue": "IFC Center",
+      "when": "Wed Oct 28 · 8:45 PM",
+      "format": "DCP",
+      "event": "Larry Fessenden Q&A moderated by Justin LaLiberty; tickets on sale",
+      "tags": [
+        "Director Q&A",
+        "NYC Indie",
+        "Cult"
+      ],
+      "text": "Fessenden’s downtown vampire film is exactly the kind of rough, influential independent cult work that deserves more than a midnight-movie footnote. The director Q&A, moderated by curator Justin LaLiberty, makes this the best current route into it.",
+      "href": "https://www.ifccenter.com/films/habit-2/",
+      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/10/habit-2.jpg"
+    },
+    "ganja": {
+      "title": "Ganja & Hess",
+      "year": "1973",
+      "region": "United States",
+      "director": "Bill Gunn",
+      "type": "Experimental horror",
+      "venue": "Roxy Cinema",
+      "when": "Wed Oct 28 · 7:00 PM",
+      "format": "DCP",
+      "event": "Tickets on sale",
+      "tags": [
+        "All-Time Classic",
+        "Formally Radical",
+        "Cult"
+      ],
+      "text": "Bill Gunn bends horror, blaxploitation and avant-garde structure into a singular inquiry into Black identity, desire and religion. It is foundational transgressive cinema and a better fit for your canon than treating it as merely a genre curiosity.",
+      "href": "https://www.roxycinemanewyork.com/screenings/ganja-hess/",
+      "image": "https://djmzubtjl6upi.cloudfront.net/wp-content/uploads/sites/9/2026/10/Ganja-Hess_1-2000.jpg"
+    },
+    "oldboy": {
+      "title": "Oldboy / 올드보이",
+      "year": "2003",
+      "region": "South Korea",
+      "director": "Park Chan-wook",
+      "type": "Revenge thriller",
+      "venue": "Metrograph",
+      "when": "Fri Oct 23 · 3:45 PM; Sun Oct 25 · 6:15 PM",
+      "format": "4K DCP",
+      "tags": [
+        "Asian Canon",
+        "4K",
+        "Cult"
+      ],
+      "text": "Park’s revenge tragedy remains a formally explosive modern Korean classic. Its availability and familiarity keep it below the rarer discoveries, but the 4K presentation is still a worthwhile theatrical return.",
+      "href": "https://metrograph.com/film/?vista_film_id=9999000490",
+      "event": "Tickets on sale",
+      "image": "https://metrograph.com/wp-content/uploads/2025/06/OLDBOY_1-copy.jpg"
+    },
+    "alllight": {
+      "title": "All We Imagine as Light",
+      "year": "2024",
+      "region": "India / France",
+      "director": "Payal Kapadia",
+      "type": "Drama",
+      "venue": "Metrograph",
+      "when": "Sun Oct 25 · 12:15 PM",
+      "format": "DCP",
+      "event": "Tickets on sale",
+      "tags": [
+        "Asian Cinema",
+        "Cannes 2024 · Competition",
+        "Grand Prix"
+      ],
+      "text": "Kapadia’s sensuous urban drama gives working women’s interior lives a patient visual rhythm. This single Metrograph matinee is the week’s strongest South Asian complement to the Middle Eastern counter-history of Leila and the Wolves.",
+      "href": "https://metrograph.com/film/?vista_film_id=9999005055",
+      "image": "https://metrograph.com/wp-content/uploads/2026/09/ALL-WE-IMAGINE-AS-LIGHT_2.jpeg"
+    },
+    "nopick": {
+      "title": "No Picnic",
+      "year": "1986",
+      "region": "United States",
+      "director": "Philip Hartman",
+      "type": "Independent feature",
+      "venue": "Roxy Cinema",
+      "when": "Sat Oct 24 · 7:00 PM",
+      "format": "New 4K restoration",
+      "event": "Post-screening Q&A with Philip Hartman; tickets on sale",
+      "tags": [
+        "New Restoration",
+        "Director Q&A",
+        "NYC Cinema"
+      ],
+      "text": "Hartman’s pre-gentrification East Village artifact is valuable as both neighborhood record and melancholy fiction. The new restoration and filmmaker Q&A turn a local rediscovery into a genuine event.",
+      "href": "https://www.roxycinemanewyork.com/screenings/no-picnic-new-4k-restoration/",
+      "image": "https://djmzubtjl6upi.cloudfront.net/wp-content/uploads/sites/9/2026/07/NO-PICNIC2000.png"
+    },
+    "something": {
+      "title": "Something Special (Willy/Milly)",
+      "year": "1986",
+      "region": "United States",
+      "director": "Paul Schneider",
+      "type": "Teen fantasy / trans reading",
+      "venue": "Metrograph",
+      "when": "Sat Oct 24 · 3:30 PM",
+      "format": "35mm",
+      "event": "Intro & discussion by Jenni Olson; moderator Drew Burnett Gregory",
+      "tags": [
+        "35mm",
+        "Rare Screening",
+        "Discussion"
+      ],
+      "text": "Olson’s framing reclaims a studio-era body-swap comedy as trans cinema without flattening its contradictions. A rare 35mm screening plus a focused post-film discussion makes this more than nostalgia.",
+      "href": "https://metrograph.com/film/?vista_film_id=9999005052",
+      "image": "https://metrograph.com/wp-content/uploads/2026/09/Metrograph_October-2026_Series-Art_Jenni-Olson-Selects-1600x900.jpg"
+    },
+    "making": {
+      "title": "Making Marie Antoinette",
+      "year": "2026",
+      "region": "United States",
+      "director": "Eleanor Coppola",
+      "type": "Making-of documentary",
+      "venue": "Museum of the Moving Image",
+      "when": "Opens Fri Oct 23 at MoMI; check live sessions",
+      "format": "DCP · 86 min · MUBI",
+      "tags": [
+        "MUBI",
+        "New Release",
+        "Documentary"
+      ],
+      "text": "This production-history documentary is a relevant MUBI release, but it is not evidence of this week’s MUBI GO selection. Keep it as a normal theatrical option unless the live app explicitly confirms eligibility.",
+      "href": "https://movingimage.org/event/making-marie-antoinette/",
+      "event": "MUBI release; tickets on sale",
+      "image": "https://images.mubicdn.net/images/film/476712/cache-1144546-1789649513/image-w1280.jpg"
     },
     "dragon": {
       "title": "Goodbye, Dragon Inn / 不散",
@@ -505,102 +393,54 @@
       "when": "Fri Oct 30 · 6:00 PM",
       "format": "DCP · 82 min",
       "tags": [
-        "SPECIAL FOCUS",
-        "TSAI MING-LIANG"
+        "Special Focus",
+        "Tsai Ming-liang",
+        "Restoration"
       ],
-      "text": "The movie-palace elegy remains a direct-focus theatrical priority if you missed recent screenings. No guest is announced, so book for the film rather than an imagined appearance.",
+      "text": "Tsai’s essential theater-haunting masterpiece returns at MoMI. Even without a guest, a single confirmed date makes it one of the clearest direct-focus bookings inside the 30-day window.",
       "href": "https://movingimage.org/event/goodbye-dragon-inn/",
-      "event": "",
+      "event": "Tickets on sale; no guest announced",
       "image": "https://images.mubicdn.net/images/film/65183/cache-173265-1745492305/image-w1280.jpg"
     },
-    "ozu": {
-      "title": "The Flavor of Green Tea over Rice / お茶漬の味",
-      "year": "1952",
-      "region": "Japan",
-      "director": "Yasujirō Ozu",
-      "type": "Domestic comedy-drama",
-      "venue": "Metrograph",
-      "when": "Sat Oct 24 · 12:50 PM",
-      "format": "35mm · 116 min",
-      "tags": [
-        "35MM",
-        "ASIAN CANON"
-      ],
-      "text": "Ozu’s careful comedy of marriage and class belongs near the top of your repertory watch. The 35mm screening is a stronger reason to book than an ordinary digital return.",
-      "href": "https://metrograph.com/film/?vista_film_id=9999003990",
-      "event": "",
-      "image": "https://metrograph.com/wp-content/uploads/2026/09/flavor_of_green_tea_over_rice_the_2-copy.jpg"
-    },
-    "father": {
-      "title": "Fatherland",
-      "year": "2026",
-      "region": "Poland / Germany / Italy / France",
-      "director": "Paweł Pawlikowski",
+    "taste": {
+      "title": "Taste of Cherry / Ta’m e guilass",
+      "year": "1997",
+      "region": "Iran",
+      "director": "Abbas Kiarostami",
       "type": "Drama",
-      "venue": "Film at Lincoln Center",
-      "when": "Opens Oct 23; Q&As Fri Oct 23 · 6:30 PM & Sat Oct 24 · 4:30 PM",
-      "format": "DCP · 82 min · MUBI",
+      "venue": "Roxy Cinema",
+      "when": "Mon Nov 2 · 7:00 PM",
+      "format": "DCP",
+      "event": "Cinema Tehran Presents; tickets on sale",
       "tags": [
-        "MUBI",
-        "DIRECTOR Q&A"
+        "Special Focus",
+        "Kiarostami",
+        "Rare Screening",
+        "Buy Now"
       ],
-      "text": "The new regular run brings another chance at Pawlikowski in person. Given your earlier NYFF Q&A plan, this is an optional second conversation rather than a presumed missing ticket.",
-      "href": "https://www.filmlinc.org/films/fatherland/",
-      "event": "",
-      "image": "https://wp.filmlinc.org/wp-content/uploads/2026/07/Fatherland_NYFF64_03.jpg"
+      "text": "A direct Special Focus title and a rare Lower Manhattan booking, Kiarostami’s Palme d’Or winner turns a simple drive into a radical test of spectatorship, ethics and the limits of representation. Tickets are already live; this should be secured before the next weekly edition.",
+      "href": "https://www.roxycinemanewyork.com/screenings/cinema-tehran-presents-taste-of-cherry-by-abbas-kiarostami/",
+      "image": "https://djmzubtjl6upi.cloudfront.net/wp-content/uploads/sites/9/2026/10/cherry-1500.jpg"
     },
-    "closure": {
-      "title": "Closure",
+    "hamaguchi": {
+      "title": "All of a Sudden / Soudain",
       "year": "2026",
-      "region": "Poland",
-      "director": "Michal Marczak",
-      "type": "Documentary",
-      "venue": "IFC Center",
-      "when": "Opens Wed Oct 28; Q&As Oct 28 & 29 · 6:45 PM",
-      "format": "DCP · 106 min",
+      "region": "France / Japan / Germany / Belgium",
+      "director": "Ryūsuke Hamaguchi",
+      "type": "Drama",
+      "venue": "MoMA; FLC previews also announced",
+      "when": "FLC previews Nov 18–19; MoMA Nov 19 · 6:00 PM",
+      "format": "DCP · 196 min · NEON",
       "tags": [
-        "DIRECTOR Q&A",
-        "NEW RELEASE"
+        "Special Focus",
+        "Hamaguchi",
+        "Conversation",
+        "Buy Early"
       ],
-      "text": "A father’s search on the Vistula becomes an immersive study of hope and suspended grief. Both director nights are announced and ticket-linked, making them the useful opening-week choices.",
-      "href": "https://www.ifccenter.com/films/closure/",
-      "event": "Michal Marczak Q&A both nights",
-      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/10/closure.jpg"
-    },
-    "road": {
-      "title": "On the Road",
-      "year": "2026",
-      "region": "Mexico",
-      "director": "David Pablos",
-      "type": "Queer road drama",
-      "venue": "IFC Center",
-      "when": "Preview Sun Oct 25 · 6:45 PM; opens Wed Oct 28 · regular times TBA",
-      "format": "DCP · 103 min",
-      "tags": [
-        "DIRECTOR Q&A",
-        "NEW RELEASE"
-      ],
-      "text": "A drifter and truck driver find intimacy in an aggressively masculine landscape. Choose the filmmaker preview for the event upgrade; do not mistake it for the start of the regular engagement.",
-      "href": "https://www.ifccenter.com/films/on-the-road-2/",
-      "event": "Preview Q&A with David Pablos",
-      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/10/7-on-the-road.jpg"
-    },
-    "gentle": {
-      "title": "Gentle Monster",
-      "year": "2026",
-      "region": "France",
-      "director": "Marie Kreutzer",
-      "type": "Psychological drama",
-      "venue": "IFC Center",
-      "when": "Opens Fri Oct 30 · times TBA",
-      "format": "DCP · 114 min",
-      "tags": [
-        "NEW RELEASE"
-      ],
-      "text": "Léa Seydoux leads a domestic drama in which suspicion dismantles the possibility of a fresh start. It is a considered international release to watch, with no guest or showtime announced yet.",
-      "href": "https://www.ifccenter.com/films/gentle-monster/",
-      "event": "",
-      "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/10/gentle-monster-3.jpg"
+      "text": "You already saw it at NYFF and want the guest-bearing rewatch. Prioritize whichever FLC preview has the better conversation once exact times appear; keep MoMA’s Nov 12 public sale as the confirmed fallback.",
+      "href": "https://www.moma.org/calendar/events/11809",
+      "event": "Hamaguchi & Tao Okamoto at FLC; Hamaguchi at MoMA. MoMA public sale Nov 12, 10:30 AM ET",
+      "image": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMTAvMDkvNW05ZmhpMnh6ZF9BbGxfb2ZfYV9TdWRkZW5fU3RpbGxfMDEuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d/All%20of%20a%20Sudden_Still%2001.jpg?sha=11f76d5a4672f2bf"
     },
     "birds": {
       "title": "Birds of War",
@@ -609,7 +449,7 @@
       "director": "Janay Boulos & Abd Alkader Habak",
       "type": "Personal war documentary",
       "venue": "IFC Center",
-      "when": "Opens Wed Nov 4 · 6:30 PM Q&A; more times TBA",
+      "when": "Opens Wed Nov 4; Q&A Nov 4 · 6:30 PM",
       "format": "DCP · 88 min",
       "tags": [
         "MIDDLE EAST",
@@ -617,7 +457,7 @@
       ],
       "text": "Thirteen years of archives link reporting, revolution, exile and an unexpected relationship. The subjects are also the filmmakers, making opening night a particularly substantive conversation.",
       "href": "https://www.ifccenter.com/films/birds-of-war/",
-      "event": "Q&A with Janay Boulos & Abd Alkader Habak",
+      "event": "Janay Boulos & Abd Alkader Habak Q&A; tickets on sale",
       "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/10/birds-of-war.jpg"
     },
     "soul": {
@@ -627,7 +467,7 @@
       "director": "J.M. Harper",
       "type": "Historical documentary",
       "venue": "IFC Center",
-      "when": "Opens Fri Nov 6 · times TBA",
+      "when": "Opens Thu Nov 5; Q&As Nov 5 · 7:30 PM and Nov 6 · 7:15 PM",
       "format": "100 min",
       "tags": [
         "NEW RELEASE",
@@ -635,7 +475,7 @@
       ],
       "text": "Harper reconstructs the first Black special-operations team in Vietnam through personal archives and a reunion. It is a promising documentary opening; no new guest-bearing show has been announced on the engagement page.",
       "href": "https://www.ifccenter.com/films/soul-patrol/",
-      "event": "",
+      "event": "Guest details on official listing; tickets on sale",
       "image": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2026/08/soulpatrol_web-49.jpg"
     },
     "lantern": {
@@ -645,7 +485,7 @@
       "director": "Zhang Yimou",
       "type": "Period drama",
       "venue": "Film Forum",
-      "when": "Nov 6–19 · showtimes forthcoming",
+      "when": "Opens Fri Nov 6",
       "format": "4K restoration · 125 min",
       "tags": [
         "4K RESTORATION",
@@ -653,1356 +493,779 @@
       ],
       "text": "Gong Li’s performance and Zhang’s enclosure of bodies inside ritual are essential Fifth Generation cinema. The new 35th-anniversary engagement warrants a deliberate big-screen revisit rather than a buried calendar mention.",
       "href": "https://filmforum.org/film/raise-the-red-lantern",
-      "event": "",
+      "event": "4K restoration; showtimes not yet announced",
       "image": "https://filmforum.org/do-not-enter-or-modify-or-erase/client-uploads/RAISE_THE_RED_LANTERN_thumbnail.png"
-    },
-    "every": {
-      "title": "Everytime",
-      "year": "2026",
-      "region": "Austria / Germany",
-      "director": "Sandra Wollner",
-      "type": "Drama",
-      "venue": "Film at Lincoln Center",
-      "when": "Nov 6–12 · 3:30, 6:15 & 8:45 PM daily",
-      "format": "DCP · 124 min",
-      "tags": [
-        "NEW RELEASE"
-      ],
-      "text": "Wollner’s unsettling family drama returns after NYFF. Either event or regular format fits your prior plan, so this announced run lowers the need to chase a festival-style premium.",
-      "href": "https://www.filmlinc.org/films/everytime/",
-      "event": "",
-      "image": "https://wp.filmlinc.org/wp-content/uploads/2026/07/Everytime_NYFF64_01-scaled.jpg"
-    },
-    "bitter": {
-      "title": "Bitter Christmas",
-      "year": "2026",
-      "region": "Spain",
-      "director": "Pedro Almodóvar",
-      "type": "Drama",
-      "venue": "Film at Lincoln Center",
-      "when": "Opens Fri Nov 13 · 1:15, 3:45, 6:15 & 8:45 PM daily",
-      "format": "111 min · Sony Pictures Classics",
-      "tags": [
-        "NEW RELEASE"
-      ],
-      "text": "Almodóvar’s new film is a notable international opening inside the 30-day window. A regular theatrical release makes it less urgent than rare prints or direct-focus appearances.",
-      "href": "https://www.filmlinc.org/films/bitter-christmas/",
-      "event": "",
-      "image": "https://wp.filmlinc.org/wp-content/uploads/2026/07/Bitter-Christmas_NYFF64_11.jpg"
-    },
-    "making": {
-      "title": "Making Marie Antoinette",
-      "year": "2026",
-      "region": "United States",
-      "director": "Eleanor Coppola",
-      "type": "Making-of documentary",
-      "venue": "Museum of the Moving Image",
-      "when": "Tue Oct 20 · 6:30 PM; theatrical release Oct 23",
-      "format": "DCP · 86 min · MUBI",
-      "tags": [
-        "MUBI",
-        "AT CAPACITY",
-        "OFFICIAL STANDBY"
-      ],
-      "text": "Eleanor Coppola’s long-unseen footage observes Sofia directing at Versailles, turning a production record into a mother–daughter encounter. The free preview is at capacity; MoMI explicitly allows limited standby, so do not assume an RSVP is still obtainable.",
-      "href": "https://movingimage.org/event/making-marie-antoinette/",
-      "event": "",
-      "image": "https://images.mubicdn.net/images/film/476712/cache-1144546-1789649513/image-w1280.jpg"
     }
   },
+  "picks": [
+    "leila",
+    "ozu",
+    "state",
+    "virgina",
+    "possible",
+    "yousee",
+    "road",
+    "closure",
+    "opdocs",
+    "nopick",
+    "habit"
+  ],
   "sections": [
     [
       "special",
       "01 / 🎯 SPECIAL FOCUS",
-      "Distributor focus, with direct-director dates ahead",
+      "Direct matches, distributor focus and the week’s ethics-of-images thread",
       [
-        "harlem",
-        "oldboy",
-        "fjord",
-        "exile",
-        "making"
+        "possible",
+        "yousee",
+        "fjord"
       ]
     ],
     [
       "asian",
       "02 / 🌏 ASIAN CINEMA",
-      "East and Southeast Asia",
+      "East, South and West Asia / Middle East",
       [
-        "amoeba",
-        "highlow",
+        "leila",
+        "ozu",
         "oldboy",
-        "okja",
-        "redline"
+        "alllight"
       ]
     ],
     [
       "festival",
       "🏆 FESTIVAL",
-      "Current films from recent priority-festival editions",
+      "Current NYC screenings from the five most recent priority-festival editions",
       [
+        "possible",
+        "father",
         "fjord",
-        "case"
+        "primetime",
+        "road",
+        "closure"
       ]
     ],
     [
       "classics",
       "04 / 🎞 ALL-TIME CLASSICS",
-      "Prints, restorations and transgressive canon",
+      "Canonical, radical and cult cinema",
       [
-        "devils",
-        "zven",
-        "east",
-        "highlow",
-        "ashes",
-        "hell",
-        "fly"
+        "state",
+        "leila",
+        "ozu",
+        "ganja",
+        "oldboy"
       ]
     ],
     [
       "new",
       "05 / 🆕 NEW HITS",
-      "Current international and independent releases",
+      "Current independent and international releases",
       [
-        "harlem",
-        "fjord",
-        "case",
-        "great"
+        "yousee",
+        "primetime",
+        "possible",
+        "father",
+        "fjord"
       ]
     ],
     [
       "worth",
       "06 / ⭐ WORTH SEEING",
-      "A filmmaker, a witness or a distinct form",
+      "Distinct forms, restorations and guests",
       [
-        "insider",
-        "president",
-        "paris",
-        "sweet",
-        "million",
-        "home"
+        "virgina",
+        "opdocs",
+        "road",
+        "closure",
+        "mouse"
       ]
     ],
     [
       "noteworthy",
       "07 / 🎥 OTHER NOTEWORTHY SCREENINGS",
-      "Rare and formally adventurous alternatives",
+      "Rare local and cult alternatives",
       [
-        "nostos",
-        "illiac",
-        "begotten",
-        "redline"
+        "nopick",
+        "something",
+        "habit",
+        "ganja"
       ]
     ]
-  ],
-  "picks": [
-    "devils",
-    "zven",
-    "amoeba",
-    "nostos",
-    "harlem",
-    "east",
-    "insider",
-    "paris",
-    "illiac",
-    "sweet",
-    "highlow",
-    "exile"
-  ],
-  "soon": [
-    "possible",
-    "dragon",
-    "ozu",
-    "father",
-    "hamaguchi"
-  ],
-  "releases": [
-    "making",
-    "closure",
-    "road",
-    "gentle",
-    "birds",
-    "soul",
-    "lantern",
-    "every",
-    "bitter"
   ],
   "schedule": [
     [
       {
         "venue": "Metrograph",
+        "title": "Brief Encounter · 35mm",
+        "href": "https://metrograph.com/film/?vista_film_id=9999002242",
+        "times": [
+          "1:50 PM"
+        ]
+      },
+      {
+        "venue": "Metrograph",
         "title": "Strangers on a Train · 35mm",
         "href": "https://metrograph.com/film/?vista_film_id=9999000668",
         "times": [
-          "2:15 PM"
+          "3:50 PM"
         ]
       },
       {
         "venue": "Metrograph",
-        "title": "Socrates",
-        "href": "https://metrograph.com/film/?vista_film_id=9999005024",
+        "title": "All That Heaven Allows · 35mm",
+        "href": "https://metrograph.com/film/?vista_film_id=9999000610",
         "times": [
-          "4:15 PM"
+          "6:15 PM"
         ]
       },
       {
         "venue": "Metrograph",
-        "title": "Midnight in Paris · 35mm",
-        "href": "https://metrograph.com/film/?vista_film_id=9999005018",
+        "title": "Night on Earth · 35mm · sold out",
+        "href": "https://metrograph.com/film/?vista_film_id=9999001984",
         "times": [
-          "4:30 PM"
-        ]
-      },
-      {
-        "venue": "Metrograph",
-        "title": "Minority Report",
-        "href": "https://metrograph.com/film/?vista_film_id=9999005046",
-        "times": [
-          "6:40 PM"
-        ]
-      },
-      {
-        "venue": "Metrograph",
-        "title": "Almost Famous · Caramanica/Coscarelli intro",
-        "href": "https://metrograph.com/film/?vista_film_id=9999005039",
-        "times": [
-          "9:00 PM"
-        ]
-      },
-      {
-        "venue": "Metrograph",
-        "title": "The Terminator",
-        "href": "https://metrograph.com/film/?vista_film_id=9999000719",
-        "times": [
-          "9:30 PM"
+          "8:30 PM"
         ]
       },
       {
         "venue": "Film Forum",
-        "title": "Man of Marble",
-        "href": "https://filmforum.org/film/man-of-marble-wajda-100",
+        "title": "Nationtime · Liani Greaves/Sandra Schulberg intro",
+        "href": "https://filmforum.org/film/nationtime-william-greaves-100",
         "times": [
-          "12:30 PM"
+          "2:00 PM"
         ]
       },
       {
         "venue": "Film Forum",
-        "title": "Man of Iron",
-        "href": "https://filmforum.org/film/man-of-iron-wajda-100",
+        "title": "Lost Boundaries · Bogle/Goldstein conversation",
+        "href": "https://filmforum.org/film/lost-boundaries-william-greaves-100",
         "times": [
-          "4:00 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "The Promised Land",
-        "href": "https://filmforum.org/film/the-promised-land-wajda-100",
-        "times": [
-          "7:10 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "Unzipped",
-        "href": "https://filmforum.org/film/unzipped-2026",
-        "times": [
-          "12:20 PM",
-          "4:15 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "The Scout",
-        "href": "https://filmforum.org/film/the-scout",
-        "times": [
-          "2:10 PM"
+          "5:50 PM"
         ]
       },
       {
         "venue": "MoMA",
-        "title": "All the Children but One + A Story Told by Jean Dougnac",
-        "href": "https://www.moma.org/calendar/events/11692",
+        "title": "It’s Alive! Candy Kugel & Vincent Cafarelli",
+        "href": "https://www.moma.org/calendar/events/11704",
         "times": [
-          "4:30 PM"
+          "1:00 PM"
         ]
       },
       {
         "venue": "MoMA",
-        "title": "Tomorrow We Move",
-        "href": "https://www.moma.org/calendar/events/11697",
+        "title": "Imperium · Sergei Loznitsa intro",
+        "href": "https://www.moma.org/calendar/events/11705",
         "times": [
           "7:00 PM"
         ]
       },
       {
-        "venue": "Anthology",
-        "title": "Confessions and Sex Histories",
-        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62011",
+        "venue": "Roxy",
+        "title": "Society · 35mm + Brian Yuzna virtual Q&A",
+        "href": "https://www.roxycinemanewyork.com/screenings/society-35mm-the-surreal-nightmares-of-screaming-mad-george/",
         "times": [
-          "6:45 PM"
-        ]
-      },
-      {
-        "venue": "Anthology",
-        "title": "Active Partners",
-        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62013",
-        "times": [
-          "8:45 PM"
+          "4:30 PM"
         ]
       },
       {
         "venue": "Roxy",
-        "title": "The Water Is Always Warm + Q&A",
-        "href": "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-the-water-is-always-warm/",
-        "times": [
-          "5:00 PM"
-        ]
-      },
-      {
-        "venue": "Roxy",
-        "title": "Cabaret Boys + Q&A",
-        "href": "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-cabaret-boys/",
-        "times": [
-          "9:30 PM"
-        ]
-      },
-      {
-        "venue": "MoMI",
-        "title": "A Girl in Black",
-        "href": "https://movingimage.org/event/a-girl-in-black/",
+        "title": "Nosferatu · live score",
+        "href": "https://www.roxycinemanewyork.com/screenings/nosferatu-live-score/",
         "times": [
           "7:00 PM"
+        ]
+      },
+      {
+        "venue": "Roxy",
+        "title": "Vampyr · live score",
+        "href": "https://www.roxycinemanewyork.com/screenings/vampyr-live-score/",
+        "times": [
+          "9:30 PM"
         ]
       }
     ],
     [
       {
         "venue": "Metrograph",
-        "title": "Aerograd · 35mm / Edo Choi intro",
-        "href": "https://metrograph.com/film/?vista_film_id=9999005037",
-        "times": [
-          "2:40 PM"
-        ]
-      },
-      {
-        "venue": "Metrograph",
-        "title": "Stress Is Three",
-        "href": "https://metrograph.com/film/?vista_film_id=9999005040",
-        "times": [
-          "4:45 PM"
-        ]
-      },
-      {
-        "venue": "Metrograph",
-        "title": "Honeycomb",
-        "href": "https://metrograph.com/film/?vista_film_id=9999005041",
-        "times": [
-          "6:50 PM"
-        ]
-      },
-      {
-        "venue": "Metrograph",
-        "title": "Broadcast News · Michael Barbaro intro",
-        "href": "https://metrograph.com/film/?vista_film_id=9999003486",
-        "times": [
-          "8:20 PM"
-        ]
-      },
-      {
-        "venue": "Metrograph",
         "title": "Medea (1988)",
         "href": "https://metrograph.com/film/?vista_film_id=9999005042",
         "times": [
-          "9:00 PM"
+          "11:15 AM"
         ]
       },
       {
         "venue": "Metrograph",
-        "title": "Blade Runner",
-        "href": "https://metrograph.com/film/?vista_film_id=9999000718",
+        "title": "Peppermint Frappé · 35mm",
+        "href": "https://metrograph.com/film/?vista_film_id=9999005051",
+        "times": [
+          "3:20 PM"
+        ]
+      },
+      {
+        "venue": "Metrograph",
+        "title": "Rosemary’s Baby · 35mm + Bobbie O’Steen Q&A",
+        "href": "https://metrograph.com/film/?vista_film_id=9999005053",
+        "times": [
+          "5:30 PM"
+        ]
+      },
+      {
+        "venue": "Metrograph",
+        "title": "Tetsuo: The Iron Man",
+        "href": "https://metrograph.com/film/?vista_film_id=9999000929",
         "times": [
           "11:00 PM"
         ]
       },
       {
         "venue": "Film Forum",
-        "title": "Siberian Lady Macbeth",
-        "href": "https://filmforum.org/film/siberian-lady-macbeth-wajda-100",
+        "title": "Souls of Sin",
+        "href": "https://filmforum.org/film/souls-of-sin-william-greaves-100",
         "times": [
-          "12:50 PM"
+          "1:50 PM"
         ]
       },
       {
         "venue": "Film Forum",
-        "title": "Landscape after Battle",
-        "href": "https://filmforum.org/film/landscape-after-battle-wajda-100",
+        "title": "Nationtime",
+        "href": "https://filmforum.org/film/nationtime-william-greaves-100",
         "times": [
-          "3:10 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "The Conductor",
-        "href": "https://filmforum.org/film/the-conductor-wajda-100",
-        "times": [
-          "5:30 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "Korczak",
-        "href": "https://filmforum.org/film/korczak-wajda-100",
-        "times": [
-          "7:50 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "Unzipped",
-        "href": "https://filmforum.org/film/unzipped-2026",
-        "times": [
-          "12:20 PM",
-          "4:15 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "The Scout",
-        "href": "https://filmforum.org/film/the-scout",
-        "times": [
-          "2:10 PM"
+          "8:20 PM"
         ]
       },
       {
         "venue": "MoMA",
-        "title": "South + Day When",
-        "href": "https://www.moma.org/calendar/events/11689",
-        "times": [
-          "4:00 PM"
-        ]
-      },
-      {
-        "venue": "MoMA",
-        "title": "Also Known as Jihadi",
-        "href": "https://www.moma.org/calendar/events/11698",
-        "times": [
-          "6:30 PM"
-        ]
-      },
-      {
-        "venue": "Anthology",
-        "title": "Strike",
-        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61915",
-        "times": [
-          "5:30 PM"
-        ]
-      },
-      {
-        "venue": "Anthology",
-        "title": "Gay Liberation on 16mm",
-        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62015",
-        "times": [
-          "5:45 PM"
-        ]
-      },
-      {
-        "venue": "Anthology",
-        "title": "Battleship Potemkin",
-        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61916",
-        "times": [
-          "8:00 PM"
-        ]
-      },
-      {
-        "venue": "Anthology",
-        "title": "Women’s Liberation",
-        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62017",
-        "times": [
-          "8:30 PM"
-        ]
-      },
-      {
-        "venue": "Roxy",
-        "title": "The Projectionist + Q&A",
-        "href": "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-the-projectionist-qa/",
-        "times": [
-          "noon"
-        ]
-      },
-      {
-        "venue": "Roxy",
-        "title": "Surfaces and the Self shorts",
-        "href": "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-surfaces-and-the-self-selection-of-short-films/",
-        "times": [
-          "2:30 PM"
-        ]
-      },
-      {
-        "venue": "MoMI",
-        "title": "Fantasia",
-        "href": "https://movingimage.org/event/fantasia-2026/2026-10-17/",
+        "title": "Babi Yar. Context",
+        "href": "https://www.moma.org/calendar/events/11706",
         "times": [
           "1:00 PM"
         ]
       },
       {
-        "venue": "MoMI",
-        "title": "Faust",
-        "href": "https://movingimage.org/event/faust/",
+        "venue": "MoMA",
+        "title": "My Joy",
+        "href": "https://www.moma.org/calendar/events/11707",
         "times": [
-          "3:30 PM"
+          "4:00 PM"
         ]
       },
       {
-        "venue": "MoMI",
-        "title": "Zorba the Greek",
-        "href": "https://movingimage.org/event/zorba-the-greek/",
+        "venue": "Roxy",
+        "title": "Freaked · 35mm / Owen Kline intro",
+        "href": "https://www.roxycinemanewyork.com/screenings/freaked-35mm-the-surreal-nightmares-of-screaming-mad-george/",
         "times": [
-          "6:30 PM"
+          "3:00 PM"
+        ]
+      },
+      {
+        "venue": "Roxy",
+        "title": "No Picnic · 4K + Philip Hartman Q&A",
+        "href": "https://www.roxycinemanewyork.com/screenings/no-picnic-new-4k-restoration/",
+        "times": [
+          "7:00 PM"
         ]
       }
     ],
     [
       {
         "venue": "Metrograph",
-        "title": "Autumn Sonata",
-        "href": "https://metrograph.com/film/?vista_film_id=9999005045",
+        "title": "An Autumn Afternoon",
+        "href": "https://metrograph.com/film/?vista_film_id=9999000844",
         "times": [
-          "11:00 AM"
+          "1:10 PM"
         ]
       },
       {
         "venue": "Metrograph",
-        "title": "Little Women · 4K",
-        "href": "https://metrograph.com/film/?vista_film_id=9999002231",
+        "title": "Nous (We) · Genevieve Yue intro",
+        "href": "https://metrograph.com/film/?vista_film_id=9999005056",
         "times": [
-          "1:00 PM"
+          "2:30 PM"
         ]
       },
       {
         "venue": "Metrograph",
-        "title": "The Parallax View · members / Shawn McCreesh intro",
-        "href": "https://metrograph.com/film/?vista_film_id=9999002450",
+        "title": "La Raulito · Jenni Olson Q&A",
+        "href": "https://metrograph.com/film/?vista_film_id=9999005057",
         "times": [
-          "4:30 PM"
+          "4:50 PM"
         ]
       },
       {
         "venue": "Metrograph",
-        "title": "Reality Bites · 35mm",
-        "href": "https://metrograph.com/film/?vista_film_id=9999005044",
+        "title": "Vera · Jenni Olson intro",
+        "href": "https://metrograph.com/film/?vista_film_id=9999005058",
         "times": [
-          "4:35 PM"
-        ]
-      },
-      {
-        "venue": "Metrograph",
-        "title": "Ivan · 35mm / Edo Choi intro",
-        "href": "https://metrograph.com/film/?vista_film_id=9999005035",
-        "times": [
-          "6:50 PM"
-        ]
-      },
-      {
-        "venue": "Metrograph",
-        "title": "Once Upon a Time in China",
-        "href": "https://metrograph.com/film/?vista_film_id=9999004431",
-        "times": [
-          "8:30 PM"
-        ]
-      },
-      {
-        "venue": "Metrograph",
-        "title": "Poem of the Sea · 35mm / Anri Vartan intro",
-        "href": "https://metrograph.com/film/?vista_film_id=9999005038",
-        "times": [
-          "8:45 PM"
+          "7:20 PM"
         ]
       },
       {
         "venue": "Film Forum",
-        "title": "Katyń",
-        "href": "https://filmforum.org/film/katyn-wajda-100",
+        "title": "Ralph Bunche: An American Odyssey",
+        "href": "https://filmforum.org/film/ralph-bunche-an-american-odyssey-william-greaves-100",
         "times": [
-          "1:00 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "Samson",
-        "href": "https://filmforum.org/film/samson-wajda-100",
-        "times": [
-          "3:30 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "The Ashes",
-        "href": "https://filmforum.org/film/the-ashes-wajda-100",
-        "times": [
-          "6:00 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "Unzipped",
-        "href": "https://filmforum.org/film/unzipped-2026",
-        "times": [
-          "12:20 PM",
-          "4:15 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "The Scout",
-        "href": "https://filmforum.org/film/the-scout",
-        "times": [
-          "2:10 PM"
+          "4:40 PM"
         ]
       },
       {
         "venue": "MoMA",
-        "title": "Mafrouza: Oh Night!",
-        "href": "https://www.moma.org/calendar/events/11693",
+        "title": "Austerlitz",
+        "href": "https://www.moma.org/calendar/events/11709",
         "times": [
           "1:30 PM"
         ]
       },
       {
         "venue": "MoMA",
-        "title": "When There Is No More Music to Write",
-        "href": "https://www.moma.org/calendar/events/11694",
+        "title": "The Natural History of Destruction",
+        "href": "https://www.moma.org/calendar/events/11710",
         "times": [
-          "4:30 PM"
+          "4:00 PM"
         ]
       },
       {
-        "venue": "Anthology",
-        "title": "The Old and the New",
-        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61917",
+        "venue": "Roxy",
+        "title": "On the Relentless Destruction of Beauty + Q&A",
+        "href": "https://www.roxycinemanewyork.com/screenings/on-the-relentless-destruction-of-beauty-short-housing-films-qa/",
         "times": [
-          "4:45 PM"
+          "5:00 PM"
         ]
       },
       {
-        "venue": "Anthology",
-        "title": "Broughton EC+",
-        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62019",
-        "times": [
-          "5:45 PM"
-        ]
-      },
-      {
-        "venue": "Anthology",
-        "title": "October",
-        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61918",
+        "venue": "Roxy",
+        "title": "Miss Me Yet + Sam Seder discussion",
+        "href": "https://www.roxycinemanewyork.com/screenings/miss-me-yet-qa/",
         "times": [
           "7:30 PM"
-        ]
-      },
-      {
-        "venue": "Anthology",
-        "title": "Erotic Fantasy",
-        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62021",
-        "times": [
-          "8:00 PM"
-        ]
-      },
-      {
-        "venue": "Roxy",
-        "title": "Dissolutions shorts",
-        "href": "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-dissolutions-selection-of-short-films/",
-        "times": [
-          "noon"
-        ]
-      },
-      {
-        "venue": "Roxy",
-        "title": "Michel Auder: Select Works + Q&A",
-        "href": "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-michel-auder-select-works/",
-        "times": [
-          "3:00 PM"
-        ]
-      },
-      {
-        "venue": "Roxy",
-        "title": "Karishika + Q&A",
-        "href": "https://www.roxycinemanewyork.com/screenings/the-downtown-fest-karishika/",
-        "times": [
-          "5:30 PM"
-        ]
-      },
-      {
-        "venue": "Roxy",
-        "title": "Amos Poe: Unmade + Q&A",
-        "href": "https://www.roxycinemanewyork.com/screenings/the-downtown-fest-amos-poe-umade/",
-        "times": [
-          "8:00 PM"
-        ]
-      },
-      {
-        "venue": "MoMI",
-        "title": "Fantasia",
-        "href": "https://movingimage.org/event/fantasia-2026/2026-10-17/",
-        "times": [
-          "12:30 PM"
-        ]
-      },
-      {
-        "venue": "MoMI",
-        "title": "Stella",
-        "href": "https://movingimage.org/event/stella/",
-        "times": [
-          "3:00 PM"
-        ]
-      },
-      {
-        "venue": "MoMI",
-        "title": "Windfall in Athens",
-        "href": "https://movingimage.org/event/windfall-in-athens/",
-        "times": [
-          "6:00 PM"
         ]
       }
     ],
     [
       {
         "venue": "Metrograph",
-        "title": "Small Change · 35mm",
-        "href": "https://metrograph.com/film/?vista_film_id=9999001550",
+        "title": "Arsenal · 35mm",
+        "href": "https://metrograph.com/film/?vista_film_id=9999005033",
         "times": [
           "4:00 PM"
         ]
       },
       {
         "venue": "Metrograph",
-        "title": "An Autumn’s Tale · 4K",
-        "href": "https://metrograph.com/film/?vista_film_id=9999005025",
-        "times": [
-          "4:15 PM"
-        ]
-      },
-      {
-        "venue": "Metrograph",
-        "title": "O Brother, Where Art Thou? · 35mm",
-        "href": "https://metrograph.com/film/?vista_film_id=9999005017",
-        "times": [
-          "9:30 PM"
-        ]
-      },
-      {
-        "venue": "Metrograph",
-        "title": "RoboCop",
-        "href": "https://metrograph.com/film/?vista_film_id=9999000720",
-        "times": [
-          "9:40 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "Afterimage",
-        "href": "https://filmforum.org/film/afterimage-wajda-100",
-        "times": [
-          "1:00 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "Siberian Lady Macbeth",
-        "href": "https://filmforum.org/film/siberian-lady-macbeth-wajda-100",
-        "times": [
-          "3:30 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "A Chronicle of Amorous Incidents",
-        "href": "https://filmforum.org/film/a-chronicle-of-amorous-accidents-wajda-100",
-        "times": [
-          "5:45 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "Unzipped",
-        "href": "https://filmforum.org/film/unzipped-2026",
-        "times": [
-          "12:20 PM",
-          "4:15 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "The Scout",
-        "href": "https://filmforum.org/film/the-scout",
-        "times": [
-          "2:10 PM"
-        ]
-      },
-      {
-        "venue": "Anthology",
-        "title": "Pattern Films, Part 1",
-        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62023",
-        "times": [
-          "7:00 PM"
-        ]
-      },
-      {
-        "venue": "Roxy",
-        "title": "The Basics of Philosophy + Paul Schrader Q&A",
-        "href": "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-the-basics-of-philosophy-qa/",
-        "times": [
-          "9:30 PM"
-        ]
-      }
-    ],
-    [
-      {
-        "venue": "Film Forum",
-        "title": "A Chronicle of Amorous Incidents",
-        "href": "https://filmforum.org/film/a-chronicle-of-amorous-accidents-wajda-100",
-        "times": [
-          "12:40 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "Samson",
-        "href": "https://filmforum.org/film/samson-wajda-100",
-        "times": [
-          "5:20 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "Unzipped",
-        "href": "https://filmforum.org/film/unzipped-2026",
-        "times": [
-          "12:20 PM",
-          "4:15 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "The Scout",
-        "href": "https://filmforum.org/film/the-scout",
-        "times": [
-          "2:10 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "Carlito’s Way · 35mm",
-        "href": "https://filmforum.org/film/carlitos-way-nyc-in-transit",
-        "times": [
-          "7:50 PM"
-        ]
-      },
-      {
-        "venue": "MoMA",
-        "title": "Also Known as Jihadi",
-        "href": "https://www.moma.org/calendar/events/11698",
-        "times": [
-          "4:30 PM"
-        ]
-      },
-      {
-        "venue": "Anthology",
-        "title": "Pattern Films, Part 2",
-        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62025",
-        "times": [
-          "7:00 PM"
-        ]
-      }
-    ],
-    [
-      {
-        "venue": "Metrograph",
-        "title": "The Age of Innocence · 35mm",
-        "href": "https://metrograph.com/film/?vista_film_id=9999000057",
-        "times": [
-          "3:15 PM"
-        ]
-      },
-      {
-        "venue": "Metrograph",
-        "title": "Amour · 4K",
-        "href": "https://metrograph.com/film/?vista_film_id=9999001734",
-        "times": [
-          "3:30 PM"
-        ]
-      },
-      {
-        "venue": "Metrograph",
-        "title": "Medea (1969)",
-        "href": "https://metrograph.com/film/?vista_film_id=9999002034",
-        "times": [
-          "9:30 PM"
-        ]
-      },
-      {
-        "venue": "Metrograph",
-        "title": "Mermaids",
-        "href": "https://metrograph.com/film/?vista_film_id=9999001463",
-        "times": [
-          "9:35 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "Man of Marble",
-        "href": "https://filmforum.org/film/man-of-marble-wajda-100",
-        "times": [
-          "12:15 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "Afterimage",
-        "href": "https://filmforum.org/film/afterimage-wajda-100",
+        "title": "Earth · DakhaBrakha score",
+        "href": "https://metrograph.com/film/?vista_film_id=9999004546",
         "times": [
           "6:00 PM"
         ]
       },
       {
-        "venue": "Film Forum",
-        "title": "Samson",
-        "href": "https://filmforum.org/film/samson-wajda-100",
+        "venue": "Metrograph",
+        "title": "Antigone · 35mm",
+        "href": "https://metrograph.com/film/?vista_film_id=9999005030",
         "times": [
-          "8:10 PM"
+          "6:10 PM"
+        ]
+      },
+      {
+        "venue": "Metrograph",
+        "title": "Paprika · 35mm",
+        "href": "https://metrograph.com/film/?vista_film_id=9999002029",
+        "times": [
+          "10:30 PM"
         ]
       },
       {
         "venue": "Film Forum",
-        "title": "Unzipped",
-        "href": "https://filmforum.org/film/unzipped-2026",
+        "title": "Mikey and Nicky",
+        "href": "https://filmforum.org/film/mikey-and-nicky",
         "times": [
-          "12:20 PM",
-          "4:15 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "The Scout",
-        "href": "https://filmforum.org/film/the-scout",
-        "times": [
-          "2:10 PM"
+          "8:00 PM"
         ]
       },
       {
         "venue": "MoMA",
-        "title": "Intermède + Le Chant des oubliés",
-        "href": "https://www.moma.org/calendar/events/11696",
-        "times": [
-          "4:30 PM"
-        ]
-      },
-      {
-        "venue": "MoMA",
-        "title": "Who Killed Ali Ziri?",
-        "href": "https://www.moma.org/calendar/events/11691",
-        "times": [
-          "7:00 PM"
-        ]
-      },
-      {
-        "venue": "Anthology",
-        "title": "Ivan the Terrible: Parts 1 & 2",
-        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62158",
+        "title": "An Evening with Rose Salane",
+        "href": "https://www.moma.org/calendar/events/11753",
         "times": [
           "7:00 PM"
         ]
       },
       {
         "venue": "Roxy",
-        "title": "Prison excerpt + Who Are You Dorothy Dean?",
-        "href": "https://www.roxycinemanewyork.com/screenings/prison-who-are-you-dorothy-dean-book-launch-and-qa/",
+        "title": "Chronicles of Shpongle + Q&A",
+        "href": "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-chronicles-of-shpongle-qa/",
         "times": [
-          "7:00 PM"
-        ]
-      }
-    ],
-    [
-      {
-        "venue": "Film Forum",
-        "title": "Korczak",
-        "href": "https://filmforum.org/film/korczak-wajda-100",
-        "times": [
-          "12:20 PM"
+          "9:00 PM"
         ]
       },
       {
-        "venue": "Film Forum",
-        "title": "Man of Iron",
-        "href": "https://filmforum.org/film/man-of-iron-wajda-100",
-        "times": [
-          "2:50 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "Walesa: Man of Hope",
-        "href": "https://filmforum.org/film/walesa-man-of-hope-wajda-100",
-        "times": [
-          "8:10 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "Unzipped",
-        "href": "https://filmforum.org/film/unzipped-2026",
-        "times": [
-          "12:20 PM",
-          "4:15 PM"
-        ]
-      },
-      {
-        "venue": "Film Forum",
-        "title": "The Scout",
-        "href": "https://filmforum.org/film/the-scout",
-        "times": [
-          "2:10 PM"
-        ]
-      },
-      {
-        "venue": "MoMA",
-        "title": "The Vanishing Point",
-        "href": "https://www.moma.org/calendar/events/11685",
+        "venue": "Anthology",
+        "title": "Cannibal! The Musical",
+        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62048",
         "times": [
           "6:30 PM"
         ]
       },
       {
         "venue": "Anthology",
-        "title": "Rosalyn Drexler: Who Does She Think She Is?",
-        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61994",
+        "title": "Mother’s Day",
+        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62049",
+        "times": [
+          "9:00 PM"
+        ]
+      }
+    ],
+    [
+      {
+        "venue": "Metrograph",
+        "title": "Shchors · 35mm",
+        "href": "https://metrograph.com/film/?vista_film_id=9999005034",
+        "times": [
+          "4:00 PM"
+        ]
+      },
+      {
+        "venue": "Metrograph",
+        "title": "Bread Day + The Train Stop",
+        "href": "https://metrograph.com/film/?vista_film_id=9999005026",
+        "times": [
+          "6:40 PM"
+        ]
+      },
+      {
+        "venue": "Metrograph",
+        "title": "The Taking of Pelham One Two Three · 35mm",
+        "href": "https://metrograph.com/film/?vista_film_id=9999000918",
+        "times": [
+          "8:10 PM"
+        ]
+      },
+      {
+        "venue": "Metrograph",
+        "title": "Ghost in the Shell · 4K",
+        "href": "https://metrograph.com/film/?vista_film_id=9999000710",
+        "times": [
+          "10:30 PM"
+        ]
+      },
+      {
+        "venue": "Film Forum",
+        "title": "A Bronx Tale",
+        "href": "https://filmforum.org/film/a-bronx-tale-nyc-in-transit",
+        "times": [
+          "5:50 PM"
+        ]
+      },
+      {
+        "venue": "Roxy",
+        "title": "A Nightmare on Elm Street 4 · 35mm",
+        "href": "https://www.roxycinemanewyork.com/screenings/a-nightmare-on-elm-street-4-the-dream-master-35mm-the-surreal-nightmares-of-screaming-mad-george/",
+        "times": [
+          "9:30 PM"
+        ]
+      },
+      {
+        "venue": "Anthology",
+        "title": "Tromeo and Juliet",
+        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62051",
+        "times": [
+          "6:45 PM"
+        ]
+      },
+      {
+        "venue": "Anthology",
+        "title": "Bugged!",
+        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62053",
+        "times": [
+          "9:15 PM"
+        ]
+      }
+    ],
+    [
+      {
+        "venue": "Metrograph",
+        "title": "No public screening (private event listed)",
+        "href": "https://metrograph.com/film/",
+        "times": [
+          "—"
+        ]
+      },
+      {
+        "venue": "IFC Center",
+        "title": "NYT Op-Docs 2026, Part 1 + Q&A",
+        "href": "https://www.ifccenter.com/films/an-evening-with-the-new-york-times-op-docs-2026-part-1/",
+        "times": [
+          "6:30 PM"
+        ]
+      },
+      {
+        "venue": "IFC Center",
+        "title": "Habit + Larry Fessenden Q&A",
+        "href": "https://www.ifccenter.com/films/habit-2/",
+        "times": [
+          "8:45 PM"
+        ]
+      },
+      {
+        "venue": "Roxy",
+        "title": "Ganja & Hess",
+        "href": "https://www.roxycinemanewyork.com/screenings/ganja-hess/",
         "times": [
           "7:00 PM"
         ]
       },
       {
-        "venue": "Roxy",
-        "title": "The Red Violin + Chili Ekman performance",
-        "href": "https://www.roxycinemanewyork.com/screenings/the-red-violin-live-performance/",
+        "venue": "Anthology",
+        "title": "Citizen Toxie: The Toxic Avenger IV",
+        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62056",
+        "times": [
+          "6:30 PM"
+        ]
+      },
+      {
+        "venue": "Anthology",
+        "title": "El Guardián",
+        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61979",
         "times": [
           "7:00 PM"
         ]
       },
       {
-        "venue": "Roxy",
-        "title": "Two Neighbors + Q&A",
-        "href": "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-two-neighbors-qa/",
+        "venue": "MoMA",
+        "title": "Obsession · Curry Barker / Rian Johnson",
+        "href": "https://www.moma.org/calendar/events/11791",
         "times": [
-          "10:00 PM"
+          "7:00 PM"
+        ]
+      }
+    ],
+    [
+      {
+        "venue": "Metrograph",
+        "title": "2046",
+        "href": "https://metrograph.com/film/?vista_film_id=9999004396",
+        "times": [
+          "4:15 PM"
+        ]
+      },
+      {
+        "venue": "Metrograph",
+        "title": "The Age of Innocence · 35mm",
+        "href": "https://metrograph.com/film/?vista_film_id=9999000057",
+        "times": [
+          "6:50 PM"
+        ]
+      },
+      {
+        "venue": "Metrograph",
+        "title": "The Wailing",
+        "href": "https://metrograph.com/film/?vista_film_id=9999003989",
+        "times": [
+          "9:15 PM"
+        ]
+      },
+      {
+        "venue": "Film Forum",
+        "title": "The Harder They Come",
+        "href": "https://filmforum.org/film/the-harder-they-come",
+        "times": [
+          "8:20 PM"
+        ]
+      },
+      {
+        "venue": "Roxy",
+        "title": "Suspiria",
+        "href": "https://www.roxycinemanewyork.com/screenings/suspiria/",
+        "times": [
+          "4:30 PM"
+        ]
+      },
+      {
+        "venue": "Roxy",
+        "title": "Hostel: Part II · 35mm / Hesse Deni intro",
+        "href": "https://www.roxycinemanewyork.com/screenings/hostel-part-ii-35mm/",
+        "times": [
+          "9:30 PM"
+        ]
+      },
+      {
+        "venue": "Anthology",
+        "title": "The Fall of the House of Usher",
+        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61920",
+        "times": [
+          "7:00 PM"
+        ]
+      },
+      {
+        "venue": "Anthology",
+        "title": "Terror Firmer",
+        "href": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62061",
+        "times": [
+          "7:30 PM"
         ]
       }
     ]
   ],
+  "soon": [
+    "dragon",
+    "taste",
+    "hamaguchi"
+  ],
+  "releases": [
+    "making",
+    "birds",
+    "soul",
+    "lantern"
+  ],
   "events": [
     [
-      "OCT 16 · 5:00 PM",
-      "The Water Is Always Warm",
-      "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-the-water-is-always-warm/",
-      "Roxy · Morgan Krantz Q&A; ticket link live."
+      "OCT 23 · 2:00 PM",
+      "Nationtime — introduction",
+      "https://filmforum.org/film/nationtime-william-greaves-100",
+      "Film Forum · Liani Greaves and IndieCollect founder Sandra Schulberg; tickets on sale."
     ],
     [
-      "OCT 16 · 6:00 & 7:00 PM",
-      "Once Upon a Time in Harlem",
-      "https://filmforum.org/film/once-upon-a-time-in-harlem",
-      "Film Forum · David Greaves & Liani Greaves Q&As; on sale."
+      "OCT 23 · 5:50 PM",
+      "Lost Boundaries — conversation",
+      "https://filmforum.org/film/lost-boundaries-william-greaves-100",
+      "Film Forum · Donald Bogle and Bruce Goldstein; tickets on sale."
     ],
     [
-      "OCT 16 · 6:40 PM",
-      "Paris Was a Woman",
-      "https://metrograph.com/film/?vista_film_id=9999003500",
-      "Metrograph · Greta Schiller & Andrea Weiss Q&A, moderator Laura Flanders; Weiss book signing; on sale."
-    ],
-    [
-      "OCT 16 · 7:00 PM",
-      "Amoeba",
-      "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-amoeba/",
-      "Roxy · Siyou Tan Q&A, moderator Cristine Brache; NYC premiere; on sale."
-    ],
-    [
-      "OCT 16 · 7:15 PM",
-      "The Great Experiment",
-      "https://www.ifccenter.com/films/the-great-experiment-2/",
-      "IFC · Stephen Maing Q&A; moderator Laura Poitras; on sale."
-    ],
-    [
-      "OCT 16 · 9:00 PM",
-      "Almost Famous",
-      "https://metrograph.com/film/?vista_film_id=9999005039",
-      "Metrograph · introduction by Jon Caramanica & Joe Coscarelli; on sale."
-    ],
-    [
-      "OCT 16 · 9:30 PM",
-      "Cabaret Boys",
-      "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-cabaret-boys/",
-      "Roxy · Michael Bilandic Q&A; on sale."
-    ],
-    [
-      "OCT 17 · NOON",
-      "The Projectionist",
-      "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-the-projectionist-qa/",
-      "Roxy · Alexandre Rockwell Q&A; on sale."
-    ],
-    [
-      "OCT 17 · 12:30 PM",
-      "Zvenygora",
-      "https://metrograph.com/film/?vista_film_id=9999005036",
-      "Metrograph · medukha live score: Asia Mieleszko, Max Temnogorod & Salina Kuo; on sale."
-    ],
-    [
-      "OCT 17 · 2:30 PM",
-      "Paris Was a Woman",
-      "https://metrograph.com/film/?vista_film_id=9999003500",
-      "Metrograph · Schiller & Weiss Q&A; moderator Jane Gaines; on sale."
-    ],
-    [
-      "OCT 17 · 2:40 PM",
-      "Aerograd",
-      "https://metrograph.com/film/?vista_film_id=9999005037",
-      "Metrograph · Edo Choi introduction; 35mm; on sale."
-    ],
-    [
-      "OCT 17 · 4:40 PM",
-      "The Insider",
-      "https://metrograph.com/film/?vista_film_id=9999003555",
-      "Metrograph · Lowell Bergman & Pablo Torre Q&A; 35mm; on sale."
-    ],
-    [
-      "OCT 17 · 6:00 & 6:30 PM; OCT 18 · 3:30 & 4:00 PM",
-      "Once Upon a Time in Harlem",
-      "https://www.filmlinc.org/films/once-upon-a-time-in-harlem/",
-      "FLC · all four Q&As with David Greaves, Liani Greaves & Anne de Mare; on sale."
-    ],
-    [
-      "OCT 17 · 7:15 PM",
-      "The Great Experiment",
-      "https://www.ifccenter.com/films/the-great-experiment-2/",
-      "IFC · Stephen Maing & Farihah Zaman; moderator Geeta Gandbhir; on sale."
-    ],
-    [
-      "OCT 17 · 8:20 PM",
-      "Broadcast News",
-      "https://metrograph.com/film/?vista_film_id=9999003486",
-      "Metrograph · Michael Barbaro introduction; on sale."
-    ],
-    [
-      "OCT 18 · 1:00 PM",
-      "All the President’s Men",
-      "https://metrograph.com/film/?vista_film_id=9999001169",
-      "Metrograph · Carl Bernstein & Maggie Haberman; moderator Natalie Kitroeff; on sale."
-    ],
-    [
-      "OCT 18 · 3:00 PM",
-      "Michel Auder: Select Works",
-      "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-michel-auder-select-works/",
-      "Roxy · Michel Auder Q&A; moderator advertised only as special guest, not named; on sale."
-    ],
-    [
-      "OCT 18 · 4:30 PM",
-      "The Parallax View",
-      "https://metrograph.com/film/?vista_film_id=9999002450",
-      "Metrograph · members-only; introduction Shawn McCreesh; check member inventory."
-    ],
-    [
-      "OCT 18 · 5:30 PM",
-      "Karishika",
-      "https://www.roxycinemanewyork.com/screenings/the-downtown-fest-karishika/",
-      "Roxy · Q&A with Nolly Babes founders Ebele & Tochi Anueyiagu; additional special guest unnamed; on sale."
-    ],
-    [
-      "OCT 18 · 6:45 PM",
-      "Paris Was a Woman",
-      "https://metrograph.com/film/?vista_film_id=9999003500",
-      "Metrograph · introduction Kirsten Larvick, Greta Schiller & Andrea Weiss; on sale."
-    ],
-    [
-      "OCT 18 · 6:50 PM / 8:45 PM",
-      "Ivan / Poem of the Sea",
-      "https://metrograph.com/film/?vista_film_id=9999005035",
-      "Metrograph · Ivan intro Edo Choi; Poem of the Sea intro Anri Vartan (separate title link in daily grid); both 35mm, on sale."
-    ],
-    [
-      "OCT 18 · 8:00 PM",
-      "Amos Poe: Unmade",
-      "https://www.roxycinemanewyork.com/screenings/the-downtown-fest-amos-poe-umade/",
-      "Roxy · Sebastian Mlynarski Q&A; moderator David Fear; on sale."
-    ],
-    [
-      "OCT 19 · 8:10 PM",
-      "Sweet Rush",
-      "https://filmforum.org/film/sweet-rush-wajda-100",
-      "Film Forum · post-film conversation Paweł Szajda; on sale."
-    ],
-    [
-      "OCT 19 · 9:30 PM",
-      "The Basics of Philosophy",
-      "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-the-basics-of-philosophy-qa/",
-      "Roxy · Paul Schrader Q&A; on sale; moderator not confirmed here."
-    ],
-    [
-      "OCT 19 · 7:30 PM",
-      "Adventures in Moviegoing with Isaac Mizrahi",
-      "https://movingimage.org/event/adventures-in-moviegoing-mizrahi/",
-      "MoMI · live conversation Isaac Mizrahi & Peter Becker; $25, member discount; on sale."
-    ],
-    [
-      "OCT 20 · 6:30 PM",
-      "Making Marie Antoinette",
-      "https://movingimage.org/event/making-marie-antoinette/",
-      "MoMI · free MUBI preview AT CAPACITY; limited standby explicitly possible; no guest announced."
-    ],
-    [
-      "OCT 21 & 22 · 7:00 PM",
-      "One in a Million",
-      "https://www.ifccenter.com/films/one-in-a-million/",
-      "IFC · BOTH SOLD OUT. Itab Azzam, Jack MacInnes & Israa; Wed moderator Julie Goldman. No official rush/waitlist announced."
-    ],
-    [
-      "OCT 21 · 7:00 PM",
-      "Prison excerpt + Who Are You Dorothy Dean?",
-      "https://www.roxycinemanewyork.com/screenings/prison-who-are-you-dorothy-dean-book-launch-and-qa/",
-      "Roxy · Anaïs Ngbanzo & Collier Schorr, moderator Hugo Bausch Belbachir; book launch/signing; on sale."
-    ],
-    [
-      "OCT 22 · 7:00 PM",
-      "The Red Violin",
-      "https://www.roxycinemanewyork.com/screenings/the-red-violin-live-performance/",
-      "Roxy · Chili Ekman performs John Corigliano’s The Red Violin Caprices before screening; on sale."
-    ],
-    [
-      "OCT 22 · 10:00 PM",
-      "Two Neighbors",
-      "https://www.roxycinemanewyork.com/screenings/the-downtown-festival-two-neighbors-qa/",
-      "Roxy · director Ondine Viñao Q&A with cast; see official listing for named participants; on sale."
+      "OCT 23 · 6:00 PM",
+      "Virgina — Jenni Olson in person",
+      "https://metrograph.com/film/?vista_film_id=9999005047",
+      "Metrograph · Olson in person; ticket link live."
     ],
     [
       "OCT 23 · 6:30 PM; OCT 24 · 4:30 PM",
-      "Fatherland",
+      "Fatherland — Paweł Pawlikowski Q&As",
       "https://www.filmlinc.org/films/fatherland/",
-      "FLC · Paweł Pawlikowski Q&As; on sale. Optional repeat after your earlier NYFF plan."
+      "FLC · distinct Q&A showtimes; tickets on sale."
     ],
     [
       "OCT 23 · 7:00 PM",
-      "Imperium",
+      "Imperium — Sergei Loznitsa introduction",
       "https://www.moma.org/calendar/events/11705",
-      "MoMA · North American premiere; introduction Sergei Loznitsa; public tickets released Oct 16; check current inventory."
+      "MoMA · North American premiere; check current inventory."
     ],
     [
-      "OCT 23 · 6:30 PM",
-      "Music Video Mischief",
-      "https://movingimage.org/event/music-video-mischief/",
-      "MoMI · Nigel Dick & David Browne conversation plus book signing; free RSVP."
-    ],
-    [
-      "OCT 23 · 7:00 PM",
-      "Nosferatu",
+      "OCT 23 · 7:00 & 9:30 PM",
+      "Nosferatu / Vampyr — live scores",
       "https://www.roxycinemanewyork.com/screenings/nosferatu-live-score/",
-      "Roxy · original live score by the Andrew Alden Ensemble; on sale."
+      "Roxy · Andrew Alden Ensemble performs original scores; separate film listings in daily grid."
     ],
     [
-      "OCT 23 · 9:30 PM",
-      "Vampyr",
-      "https://www.roxycinemanewyork.com/screenings/vampyr-live-score/",
-      "Roxy · original live score by the Andrew Alden Ensemble; on sale."
+      "OCT 24 · 12:50 PM",
+      "The Flavor of Green Tea over Rice — introduction",
+      "https://metrograph.com/film/?vista_film_id=9999003990",
+      "Metrograph · Genevieve Yue; 35mm; tickets on sale."
+    ],
+    [
+      "OCT 24 · 3:30 PM",
+      "Something Special — introduction and discussion",
+      "https://metrograph.com/film/?vista_film_id=9999005052",
+      "Metrograph · Jenni Olson; moderator Drew Burnett Gregory; 35mm; tickets on sale."
+    ],
+    [
+      "OCT 24 · 5:30 PM",
+      "Rosemary’s Baby — Q&A",
+      "https://metrograph.com/film/?vista_film_id=9999005053",
+      "Metrograph · Bobbie O’Steen; moderator Suzana Peric; 35mm; tickets on sale."
     ],
     [
       "OCT 24 · 7:00 PM",
-      "No Picnic",
+      "State Funeral — conversation",
+      "https://www.moma.org/calendar/events/11708",
+      "MoMA · Sergei Loznitsa and Julia Loktev; check current inventory."
+    ],
+    [
+      "OCT 24 · 7:00 PM",
+      "No Picnic — filmmaker Q&A",
       "https://www.roxycinemanewyork.com/screenings/no-picnic-new-4k-restoration/",
-      "Roxy · new 4K restoration; Philip Hartman Q&A; on sale."
+      "Roxy · Philip Hartman; new 4K restoration; tickets on sale."
+    ],
+    [
+      "OCT 25 · 2:30 PM",
+      "Nous (We) — introduction",
+      "https://metrograph.com/film/?vista_film_id=9999005056",
+      "Metrograph · Genevieve Yue; tickets on sale."
+    ],
+    [
+      "OCT 25 · 4:50 PM",
+      "La Raulito — Q&A",
+      "https://metrograph.com/film/?vista_film_id=9999005057",
+      "Metrograph · Jenni Olson; moderator Julia Solomonoff; tickets on sale."
     ],
     [
       "OCT 25 · 6:45 PM",
-      "On the Road",
+      "On the Road — David Pablos Q&A",
       "https://www.ifccenter.com/films/on-the-road-2/",
-      "IFC · David Pablos preview Q&A; on sale."
+      "IFC · sneak preview; tickets on sale."
     ],
     [
-      "OCT 25 · 5:30 PM",
-      "Seat at the Table",
-      "https://movingimage.org/event/seat-at-the-table/",
-      "MoMI · Sarita Khurana & Yoav Attias with additional unnamed special guests; free RSVP."
-    ],
-    [
-      "OCT 25 · 7:30 PM",
-      "Miss Me Yet",
-      "https://www.roxycinemanewyork.com/screenings/miss-me-yet-qa/",
-      "Roxy · selected episodes followed by a discussion with Sam Seder; on sale."
+      "OCT 27 · 6:45 PM",
+      "Mouse — cast and directors Q&A",
+      "https://www.ifccenter.com/films/mouse/",
+      "IFC · Sophie Okonedo, Katherine Mallen Kupferer, Kelly O’Sullivan and Alex Thompson; tickets on sale."
     ],
     [
       "OCT 27 · 7:00 PM",
-      "Leila and the Wolves",
+      "Leila and the Wolves — introduction",
       "https://www.roxycinemanewyork.com/screenings/leila-and-the-wolves-presented-by-miss-video-4-u/",
-      "Roxy · Dina A. Ramadan introduction. Heiny Srour’s radical Palestinian/Lebanese women’s counter-history is a strong personal match; on sale."
+      "Roxy · Dina A. Ramadan; tickets on sale."
+    ],
+    [
+      "OCT 28 · 6:30 PM",
+      "NYT Op-Docs 2026, Part 1 — Q&A",
+      "https://www.ifccenter.com/films/an-evening-with-the-new-york-times-op-docs-2026-part-1/",
+      "IFC · filmmakers and Op-Docs team; individual names not announced; tickets on sale."
     ],
     [
       "OCT 28 & 29 · 6:45 PM",
-      "Closure",
+      "Closure — Michal Marczak Q&As",
       "https://www.ifccenter.com/films/closure/",
-      "IFC · Michal Marczak Q&A both nights; on sale."
+      "IFC · both dates guest-bearing; tickets on sale."
+    ],
+    [
+      "OCT 28 · 8:45 PM",
+      "Habit — Larry Fessenden Q&A",
+      "https://www.ifccenter.com/films/habit-2/",
+      "IFC · moderator Justin LaLiberty; tickets on sale."
     ],
     [
       "OCT 28 · 7:00 PM",
-      "Obsession",
+      "Obsession — Curry Barker conversation",
       "https://www.moma.org/calendar/events/11791",
-      "MoMA Contenders · Curry Barker, moderator Rian Johnson; Explore+ available; public Oct 21 at 10:30 AM ET."
-    ],
-    [
-      "OCT 29 · 9:30 PM",
-      "Hostel: Part II",
-      "https://www.roxycinemanewyork.com/screenings/hostel-part-ii-35mm/",
-      "Roxy · 35mm; Hesse Deni introduction; on sale."
+      "MoMA · moderator Rian Johnson; check current inventory."
     ],
     [
       "OCT 30 · 6:00 PM",
       "Goodbye, Dragon Inn",
       "https://movingimage.org/event/goodbye-dragon-inn/",
-      "MoMI · direct Tsai focus; no guest announced; ticket link live."
-    ],
-    [
-      "OCT 30 · 7:00 PM",
-      "The Meltdown / El deshielo",
-      "https://movingimage.org/event/the-meltdown/",
-      "MoMI · preview with Manuela Martelli in person; on sale; $17.50 general."
+      "MoMI · direct Tsai focus; ticket link live; no guest announced."
     ],
     [
       "NOV 2 · 7:00 PM",
-      "Samurai Prisoner",
-      "https://www.moma.org/calendar/events/11795",
-      "MoMA Contenders · Kiyoshi Kurosawa film; no guest announced. Explore+ Oct 19 / public Oct 26, 10:30 AM ET."
-    ],
-    [
-      "NOV 4 · 6:30 PM",
-      "Birds of War",
-      "https://www.ifccenter.com/films/birds-of-war/",
-      "IFC · Janay Boulos & Abd Alkader Habak Q&A; on sale."
+      "Taste of Cherry",
+      "https://www.roxycinemanewyork.com/screenings/cinema-tehran-presents-taste-of-cherry-by-abbas-kiarostami/",
+      "Roxy / Cinema Tehran · direct Kiarostami focus; tickets on sale now."
     ],
     [
       "NOV 4 · 7:00 PM",
-      "La Gradiva",
+      "La Gradiva — Marine Atlan conversation",
       "https://www.moma.org/calendar/events/11796",
-      "MoMA Contenders · Marine Atlan conversation; Explore+ Oct 21 / public Oct 28, 10:30 AM ET."
+      "MoMA · public sale Oct 28 at 10:30 AM ET."
     ],
     [
       "NOV 5 · 7:00 PM",
-      "Wild Horse Nine",
+      "Wild Horse Nine — McDonagh / Malkovich",
       "https://www.moma.org/calendar/events/11797",
-      "MoMA Contenders · Martin McDonagh & John Malkovich; Explore+ Oct 22 / public Oct 29, 10:30 AM ET."
+      "MoMA · public sale Oct 29 at 10:30 AM ET; set a personal reminder."
     ],
     [
       "NOV 12 · 7:00 PM",
-      "Into the Jaws of the Ogre",
+      "Into the Jaws of the Ogre — Q&A",
       "https://www.docnyc.net/film/into-the-jaws-of-the-ogre/",
-      "DOC NYC / Village East · Mahsa Karampour & Siavash Karampour Q&A; on sale. Second Nov 14 at 3:30 PM does not have a confirmed Q&A."
-    ],
-    [
-      "NOV 13 · 7:00 PM",
-      "Josephine",
-      "https://www.moma.org/calendar/events/11803",
-      "MoMA Contenders · Beth de Araújo conversation; Explore+ Oct 30 / public Nov 6, 10:30 AM ET."
+      "DOC NYC / Village East · Mahsa and Siavash Karampour; tickets on sale."
     ]
   ]
 }
